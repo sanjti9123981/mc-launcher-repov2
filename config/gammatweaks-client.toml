@@ -1,0 +1,189 @@
+[gamma]
+	#Default gamma value (0-1500)
+	# Default: 100
+	# Range: -750 ~ 1500
+	defaultGamma = 100
+	#Toggled gamma value (0-1500)
+	# Default: 1500
+	# Range: -750 ~ 1500
+	toggledGamma = 1500
+	#Update toggle value when gamma is changed
+	updateToggle = false
+	#Gamma step value for increase/decrease (0-100)
+	# Default: 10
+	# Range: 0 ~ 100
+	gammaStep = 10
+	#Show gamma as status effect
+	showGammaStatusEffect = false
+	#Reset gamma when closing the game
+	resetGammaOnClose = false
+
+	[gamma.transition]
+		#Enable smooth gamma transition
+		smoothGammaTransition = false
+		#Gamma transition speed (0-10000)
+		# Default: 3000
+		# Range: 0 ~ 10000
+		gammaTransitionSpeed = 3000
+
+	[gamma.dynamic]
+		#Enable dynamic gamma
+		dynamicGammaEnabled = false
+		#Minimum dynamic gamma value (0-1500)
+		# Default: 100
+		# Range: -750 ~ 1500
+		minDynamicGamma = 100
+		#Maximum dynamic gamma value (0-1500)
+		# Default: 1000
+		# Range: -750 ~ 1500
+		maxDynamicGamma = 1000
+		#Dynamic gamma transition speed (0-1000)
+		# Default: 200
+		# Range: 0 ~ 1000
+		dynamicGammaTransitionSpeed = 200
+		#Gamma averaging light range (0-16)
+		# Default: 8
+		# Range: 0 ~ 16
+		gammaAveragingLightRange = 8
+		#Gamma sky brightness override (0-100)
+		# Default: 0
+		# Range: 0 ~ 100
+		gammaSkyBrightnessOverride = 0
+
+	[gamma.dimensionPreference]
+		#Enable dimension-specific gamma preferences
+		gammaDimensionPreferenceEnabled = false
+		#Gamma preference for Overworld (0-1500)
+		# Default: 1500
+		# Range: -750 ~ 1500
+		gammaOverworldPreference = 1500
+		#Gamma preference for Nether (0-1500)
+		# Default: 1500
+		# Range: -750 ~ 1500
+		gammaNetherPreference = 1500
+		#Gamma preference for End (0-1500)
+		# Default: 1500
+		# Range: -750 ~ 1500
+		gammaEndPreference = 1500
+
+	[gamma.limiter]
+		#Enable gamma limiter
+		gammaLimitCheck = true
+		#Minimum gamma value (-750-1500)
+		# Default: -750
+		# Range: -750 ~ 1500
+		minGamma = -750
+		#Maximum gamma value (-750-1500)
+		# Default: 1500
+		# Range: -750 ~ 1500
+		maxGamma = 1500
+
+	[gamma.hudMessage]
+		#Show gamma HUD message
+		showGammaHudMessage = true
+		#Gamma HUD default color
+		# Default: 43520
+		# Range: 0 ~ 16777215
+		gammaHudDefaultColor = 43520
+		#Gamma HUD positive color
+		# Default: 16755200
+		# Range: 0 ~ 16777215
+		gammaHudPositiveColor = 16755200
+		#Gamma HUD negative color
+		# Default: 11141120
+		# Range: 0 ~ 16777215
+		gammaHudNegativeColor = 11141120
+
+[nightVision]
+	#Toggled night vision value (0-100)
+	# Default: 100
+	# Range: 0 ~ 100
+	toggledNightVision = 100
+	#Update night vision toggle value when changed
+	updateNvToggle = false
+	#Night vision step value for increase/decrease (0-50)
+	# Default: 2
+	# Range: 0 ~ 50
+	nightVisionStep = 2
+	#Brighten fog color with night vision
+	brightenFogColor = true
+	#Show night vision as status effect
+	showNvStatusEffect = false
+	#Reset night vision when closing the game
+	resetNvOnClose = false
+
+	[nightVision.transition]
+		#Enable smooth night vision transition
+		smoothNvTransition = false
+		#Night vision transition speed (0-1000)
+		# Default: 200
+		# Range: 0 ~ 1000
+		nvTransitionSpeed = 200
+
+	[nightVision.dynamic]
+		#Enable dynamic night vision
+		dynamicNvEnabled = false
+		#Minimum dynamic night vision value (0-100)
+		# Default: 0
+		# Range: 0 ~ 100
+		minDynamicNv = 0
+		#Maximum dynamic night vision value (0-100)
+		# Default: 100
+		# Range: 0 ~ 100
+		maxDynamicNv = 100
+		#Dynamic night vision transition speed (0-1000)
+		# Default: 200
+		# Range: 0 ~ 1000
+		dynamicNvTransitionSpeed = 200
+		#Night vision averaging light range (0-16)
+		# Default: 8
+		# Range: 0 ~ 16
+		nvAveragingLightRange = 8
+		#Night vision sky brightness override (0-100)
+		# Default: 0
+		# Range: 0 ~ 100
+		nvSkyBrightnessOverride = 0
+
+	[nightVision.dimensionPreference]
+		#Enable dimension-specific night vision preferences
+		nvDimensionPreferenceEnabled = false
+		#Night vision preference for Overworld (0-100)
+		# Default: 100
+		# Range: 0 ~ 100
+		nvOverworldPreference = 100
+		#Night vision preference for Nether (0-100)
+		# Default: 100
+		# Range: 0 ~ 100
+		nvNetherPreference = 100
+		#Night vision preference for End (0-100)
+		# Default: 100
+		# Range: 0 ~ 100
+		nvEndPreference = 100
+
+	[nightVision.limiter]
+		#Enable night vision limiter
+		nvLimitCheck = true
+		#Minimum night vision value (0-100)
+		# Default: 0
+		# Range: 0 ~ 100
+		minNightVision = 0
+		#Maximum night vision value (0-100)
+		# Default: 100
+		# Range: 0 ~ 100
+		maxNightVision = 100
+
+	[nightVision.hudMessage]
+		#Show night vision HUD message
+		showNvHudMessage = true
+		#Night vision HUD enabled color
+		# Default: 43520
+		# Range: 0 ~ 16777215
+		nvHudEnabledColor = 43520
+		#Night vision HUD disabled color
+		# Default: 11141120
+		# Range: 0 ~ 16777215
+		nvHudDisabledColor = 11141120
+
+[other]
+	#Enable namespaced commands (gammatweaks:gamma instead of gamma)
+	namespacedCommandsEnabled = false
