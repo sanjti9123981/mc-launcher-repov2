@@ -1471,6 +1471,11 @@
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/AdvancementPlaques-1.21.1-neoforge-1.6.8.jar"
     },
     {
+      "name": "aether-1.21.1-1.5.10-neoforge.jar",
+      "path": "mods/aether-1.21.1-1.5.10-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/aether-1.21.1-1.5.10-neoforge.jar"
+    },
+    {
       "name": "AI-Improvements-1.21-0.5.3.jar",
       "path": "mods/AI-Improvements-1.21-0.5.3.jar",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/AI-Improvements-1.21-0.5.3.jar"
@@ -1729,6 +1734,11 @@
       "name": "darkerdepths-2.0.0.jar",
       "path": "mods/darkerdepths-2.0.0.jar",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/darkerdepths-2.0.0.jar"
+    },
+    {
+      "name": "deeperdarker-neoforge-1.21-1.3.4.jar",
+      "path": "mods/deeperdarker-neoforge-1.21-1.3.4.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/deeperdarker-neoforge-1.21-1.3.4.jar"
     },
     {
       "name": "disenchanting_table-merged-1.21.1-5.0.2.jar",
@@ -2001,9 +2011,19 @@
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/limitedchunks-1.21-4.1.jar"
     },
     {
+      "name": "lionfishapi-2.6.jar",
+      "path": "mods/lionfishapi-2.6.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/lionfishapi-2.6.jar"
+    },
+    {
       "name": "lithium-neoforge-0.15.1+mc1.21.1.jar",
       "path": "mods/lithium-neoforge-0.15.1+mc1.21.1.jar",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/lithium-neoforge-0.15.1+mc1.21.1.jar"
+    },
+    {
+      "name": "loadsupport-neoforge-1.21.1-1.2.1.jar",
+      "path": "mods/loadsupport-neoforge-1.21.1-1.2.1.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/loadsupport-neoforge-1.21.1-1.2.1.jar"
     },
     {
       "name": "logbegone-neoforge-1.21.1-1.0.3.jar",
@@ -2019,6 +2039,11 @@
       "name": "ls_furniture-1.0.9-NeoForge-1.21.1.jar",
       "path": "mods/ls_furniture-1.0.9-NeoForge-1.21.1.jar",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/ls_furniture-1.0.9-NeoForge-1.21.1.jar"
+    },
+    {
+      "name": "L_Ender's Cataclysm 1.21.1-3.16.jar",
+      "path": "mods/L_Ender's Cataclysm 1.21.1-3.16.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/L_Ender's Cataclysm 1.21.1-3.16.jar"
     },
     {
       "name": "mafglib-0.4.2+mc1.21.1.jar",
@@ -2091,6 +2116,11 @@
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/NaturesCompass-1.21.1-3.0.3-neoforge.jar"
     },
     {
+      "name": "necessities-0.1.2-1.21-neoforge.jar",
+      "path": "mods/necessities-0.1.2-1.21-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/necessities-0.1.2-1.21-neoforge.jar"
+    },
+    {
       "name": "Necronomicon-NeoForge-1.6.0+1.21.jar",
       "path": "mods/Necronomicon-NeoForge-1.6.0+1.21.jar",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/Necronomicon-NeoForge-1.6.0+1.21.jar"
@@ -2114,6 +2144,11 @@
       "name": "OctoLib-NEOFORGE-0.6.0.4+1.21.jar",
       "path": "mods/OctoLib-NEOFORGE-0.6.0.4+1.21.jar",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/OctoLib-NEOFORGE-0.6.0.4+1.21.jar"
+    },
+    {
+      "name": "owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
+      "path": "mods/owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar"
     },
     {
       "name": "Patchouli-1.21.1-92-NEOFORGE.jar",
@@ -2281,14 +2316,14 @@
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/the_bumblezone-7.11.8+1.21.1-neoforge.jar"
     },
     {
+      "name": "Toadlib-1.3.2-1.21-1.21.1.jar",
+      "path": "mods/Toadlib-1.3.2-1.21-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/Toadlib-1.3.2-1.21-1.21.1.jar"
+    },
+    {
       "name": "toms_storage-1.21-2.2.3.jar",
       "path": "mods/toms_storage-1.21-2.2.3.jar",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/toms_storage-1.21-2.2.3.jar"
-    },
-    {
-      "name": "tpa-1.7.5.jar",
-      "path": "mods/tpa-1.7.5.jar",
-      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/tpa-1.7.5.jar"
     },
     {
       "name": "trading_floor-3.0.15.jar",
@@ -2314,6 +2349,11 @@
       "name": "txnilib-neoforge-1.0.24-1.21.1.jar",
       "path": "mods/txnilib-neoforge-1.0.24-1.21.1.jar",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/txnilib-neoforge-1.0.24-1.21.1.jar"
+    },
+    {
+      "name": "uilib-1.0.1-1.21.1-neoforge.jar",
+      "path": "mods/uilib-1.0.1-1.21.1-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/uilib-1.0.1-1.21.1-neoforge.jar"
     },
     {
       "name": "UndergroundVillages-neoforge-1.21.1-4.0.3.jar",
@@ -2349,6 +2389,11 @@
       "name": "waystones-neoforge-1.21.1-21.1.25.jar",
       "path": "mods/waystones-neoforge-1.21.1-21.1.25.jar",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/waystones-neoforge-1.21.1-21.1.25.jar"
+    },
+    {
+      "name": "yamlconfig-1.2-1.21-neoforge.jar",
+      "path": "mods/yamlconfig-1.2-1.21-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/yamlconfig-1.2-1.21-neoforge.jar"
     },
     {
       "name": "yarrp-mc1.21.1-neoforge-v0.2.0.jar",
