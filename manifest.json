@@ -1666,6 +1666,11 @@
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/CustomNPCs-Unofficial-NeoForge-1.21.1.20250917.jar"
     },
     {
+      "name": "CustomPlayerModels-1.21-0.6.25a.jar",
+      "path": "mods/CustomPlayerModels-1.21-0.6.25a.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/CustomPlayerModels-1.21-0.6.25a.jar"
+    },
+    {
       "name": "disenchanting_table-merged-1.21.1-5.0.2.jar",
       "path": "mods/disenchanting_table-merged-1.21.1-5.0.2.jar",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/disenchanting_table-merged-1.21.1-5.0.2.jar"
@@ -2189,6 +2194,11 @@
       "name": "toms_storage-1.21-2.2.3.jar",
       "path": "mods/toms_storage-1.21-2.2.3.jar",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/toms_storage-1.21-2.2.3.jar"
+    },
+    {
+      "name": "tpa-1.7.5.jar",
+      "path": "mods/tpa-1.7.5.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/tpa-1.7.5.jar"
     },
     {
       "name": "trading_floor-3.0.15.jar",
