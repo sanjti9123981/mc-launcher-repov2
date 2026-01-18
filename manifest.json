@@ -1451,6 +1451,11 @@
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/yacl.json5"
     },
     {
+      "name": ".gitattributes",
+      "path": "mods/.gitattributes",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/.gitattributes"
+    },
+    {
       "name": "acedium-0.3.0.jar",
       "path": "mods/acedium-0.3.0.jar",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/acedium-0.3.0.jar"
@@ -2039,11 +2044,6 @@
       "name": "ls_furniture-1.0.9-NeoForge-1.21.1.jar",
       "path": "mods/ls_furniture-1.0.9-NeoForge-1.21.1.jar",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/ls_furniture-1.0.9-NeoForge-1.21.1.jar"
-    },
-    {
-      "name": "L_Ender's Cataclysm 1.21.1-3.16.jar",
-      "path": "mods/L_Ender's Cataclysm 1.21.1-3.16.jar",
-      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/L_Ender's Cataclysm 1.21.1-3.16.jar"
     },
     {
       "name": "mafglib-0.4.2+mc1.21.1.jar",
