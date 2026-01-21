@@ -41,7 +41,7 @@
     "breakingRestrictionMode": "line",
     "elytraCameraIndicator": "with_key",
     "entityTypeAttackRestrictionWarn": "message",
-    "placementRestrictionMode": "face",
+    "placementRestrictionMode": "plane",
     "hotbarSwapOverlayAlignment": "bottom_right",
     "selectiveBlocksTrackPistons": false,
     "selectiveBlocksHideParticles": true,

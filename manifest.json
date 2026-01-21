@@ -1,6 +1,11 @@
 {
   "files": [
     {
+      "name": "accessories.json5",
+      "path": "config/accessories.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/accessories.json5"
+    },
+    {
       "name": "announcements.json",
       "path": "config/adorablehamsterpets/announcements.json",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/adorablehamsterpets/announcements.json"
@@ -44,6 +49,31 @@
       "name": "advancementplaques.toml",
       "path": "config/advancementplaques.toml",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/advancementplaques.toml"
+    },
+    {
+      "name": "aether_customizations.txt",
+      "path": "config/aether/aether_customizations.txt",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/aether/aether_customizations.txt"
+    },
+    {
+      "name": "sun_altar_whitelist.json",
+      "path": "config/aether/sun_altar_whitelist.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/aether/sun_altar_whitelist.json"
+    },
+    {
+      "name": "aether-client.toml",
+      "path": "config/aether-client.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/aether-client.toml"
+    },
+    {
+      "name": "aether-common.toml",
+      "path": "config/aether-common.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/aether-common.toml"
+    },
+    {
+      "name": "aether-startup.toml",
+      "path": "config/aether-startup.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/aether-startup.toml"
     },
     {
       "name": "aiimprovements-common.toml",
@@ -176,6 +206,16 @@
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/createcobblestone-common.toml"
     },
     {
+      "name": "createdieselgenerators-client.toml",
+      "path": "config/createdieselgenerators-client.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/createdieselgenerators-client.toml"
+    },
+    {
+      "name": "createdieselgenerators-common.toml",
+      "path": "config/createdieselgenerators-common.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/createdieselgenerators-common.toml"
+    },
+    {
       "name": "create_connected-common.toml",
       "path": "config/create_connected-common.toml",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/create_connected-common.toml"
@@ -221,9 +261,24 @@
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/create_jetpack-common.toml"
     },
     {
+      "name": "creeperoverhaul.jsonc",
+      "path": "config/creeperoverhaul.jsonc",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/creeperoverhaul.jsonc"
+    },
+    {
+      "name": "crepperoverhaul-client.jsonc",
+      "path": "config/crepperoverhaul-client.jsonc",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/crepperoverhaul-client.jsonc"
+    },
+    {
       "name": "croptopia_v3.conf",
       "path": "config/croptopia/croptopia_v3.conf",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/croptopia/croptopia_v3.conf"
+    },
+    {
+      "name": "cumulus_menus-client.toml",
+      "path": "config/cumulus_menus-client.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cumulus_menus-client.toml"
     },
     {
       "name": "cupboard.json",
@@ -251,6 +306,16 @@
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/CustomNpcs.cfg"
     },
     {
+      "name": "darkerdepths-common.toml",
+      "path": "config/darkerdepths-common.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/darkerdepths-common.toml"
+    },
+    {
+      "name": "deeperdarker-common.toml",
+      "path": "config/deeperdarker-common.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/deeperdarker-common.toml"
+    },
+    {
       "name": "disenchanting_table-client.toml",
       "path": "config/disenchanting_table-client.toml",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/disenchanting_table-client.toml"
@@ -259,6 +324,11 @@
       "name": "disenchanting_table-server.toml",
       "path": "config/disenchanting_table-server.toml",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/disenchanting_table-server.toml"
+    },
+    {
+      "name": "dndesires-client.toml",
+      "path": "config/dndesires-client.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/dndesires-client.toml"
     },
     {
       "name": "dragonlib-common.toml",
@@ -329,6 +399,31 @@
       "name": "entity_texture_features.json",
       "path": "config/entity_texture_features.json",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/entity_texture_features.json"
+    },
+    {
+      "name": "armor.json5",
+      "path": "config/epicknights/armor.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/epicknights/armor.json5"
+    },
+    {
+      "name": "general.json5",
+      "path": "config/epicknights/general.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/epicknights/general.json5"
+    },
+    {
+      "name": "mobs_equipment.json5",
+      "path": "config/epicknights/mobs_equipment.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/epicknights/mobs_equipment.json5"
+    },
+    {
+      "name": "shields.json5",
+      "path": "config/epicknights/shields.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/epicknights/shields.json5"
+    },
+    {
+      "name": "weapons.json5",
+      "path": "config/epicknights/weapons.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/epicknights/weapons.json5"
     },
     {
       "name": "etf_warnings.json",
@@ -696,6 +791,11 @@
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/litematica/litematica_credipt.minecraft.best.json"
     },
     {
+      "name": "litematica_credipt.minecraft.best_dim_aether_the_aether.json",
+      "path": "config/litematica/litematica_credipt.minecraft.best_dim_aether_the_aether.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/litematica/litematica_credipt.minecraft.best_dim_aether_the_aether.json"
+    },
+    {
       "name": "litematica_credipt.minecraft.best_dim_minecraft_overworld.json",
       "path": "config/litematica/litematica_credipt.minecraft.best_dim_minecraft_overworld.json",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/litematica/litematica_credipt.minecraft.best_dim_minecraft_overworld.json"
@@ -731,6 +831,11 @@
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/lithium.properties"
     },
     {
+      "name": "loadsupport.toml",
+      "path": "config/loadsupport.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/loadsupport.toml"
+    },
+    {
       "name": "logbegone.json",
       "path": "config/logbegone.json",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/logbegone.json"
@@ -764,6 +869,11 @@
       "name": "credipt.minecraft.best.json",
       "path": "config/minihud/credipt.minecraft.best.json",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/minihud/credipt.minecraft.best.json"
+    },
+    {
+      "name": "credipt.minecraft.best_dim_aether_the_aether.json",
+      "path": "config/minihud/credipt.minecraft.best_dim_aether_the_aether.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/minihud/credipt.minecraft.best_dim_aether_the_aether.json"
     },
     {
       "name": "credipt.minecraft.best_dim_minecraft_overworld.json",
@@ -839,6 +949,11 @@
       "name": "naturescompass-common.toml",
       "path": "config/naturescompass-common.toml",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/naturescompass-common.toml"
+    },
+    {
+      "name": "necessities.yaml",
+      "path": "config/necessities.yaml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/necessities.yaml"
     },
     {
       "name": "necronomicon.json5",
@@ -1271,6 +1386,16 @@
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/sound_physics_remastered/soundphysics.properties"
     },
     {
+      "name": "storagedrawers-client.toml",
+      "path": "config/storagedrawers-client.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/storagedrawers-client.toml"
+    },
+    {
+      "name": "storagedrawers-common.v2.toml",
+      "path": "config/storagedrawers-common.v2.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/storagedrawers-common.v2.toml"
+    },
+    {
       "name": "structureessentials.json",
       "path": "config/structureessentials.json",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/structureessentials.json"
@@ -1294,6 +1419,11 @@
       "name": "tacz-server.toml",
       "path": "config/tacz-server.toml",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/tacz-server.toml"
+    },
+    {
+      "name": "tfmg-common.toml",
+      "path": "config/tfmg-common.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/tfmg-common.toml"
     },
     {
       "name": "bee_aggression.toml",
@@ -1326,6 +1456,11 @@
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/the_bumblezone/worldgen.toml"
     },
     {
+      "name": "toadlib_config.txt",
+      "path": "config/toadlib_config.txt",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/toadlib_config.txt"
+    },
+    {
       "name": "toms_storage-common.toml",
       "path": "config/toms_storage-common.toml",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/toms_storage-common.toml"
@@ -1349,6 +1484,16 @@
       "name": "transition.json",
       "path": "config/transition.json",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/transition.json"
+    },
+    {
+      "name": "travelersbackpack-client.toml",
+      "path": "config/travelersbackpack-client.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/travelersbackpack-client.toml"
+    },
+    {
+      "name": "travelersbackpack-common.toml",
+      "path": "config/travelersbackpack-common.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/travelersbackpack-common.toml"
     },
     {
       "name": "trender.json",
@@ -1451,11 +1596,6 @@
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/yacl.json5"
     },
     {
-      "name": ".gitattributes",
-      "path": "mods/.gitattributes",
-      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/.gitattributes"
-    },
-    {
       "name": "acedium-0.3.0.jar",
       "path": "mods/acedium-0.3.0.jar",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/acedium-0.3.0.jar"
@@ -1479,11 +1619,6 @@
       "name": "aether-1.21.1-1.5.10-neoforge.jar",
       "path": "mods/aether-1.21.1-1.5.10-neoforge.jar",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/aether-1.21.1-1.5.10-neoforge.jar"
-    },
-    {
-      "name": "AI-Improvements-1.21-0.5.3.jar",
-      "path": "mods/AI-Improvements-1.21-0.5.3.jar",
-      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/AI-Improvements-1.21-0.5.3.jar"
     },
     {
       "name": "ajolo-coin-1.3.jar",
@@ -1524,11 +1659,6 @@
       "name": "bellsandwhistles-0.4.7-1.21.1.jar",
       "path": "mods/bellsandwhistles-0.4.7-1.21.1.jar",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/bellsandwhistles-0.4.7-1.21.1.jar"
-    },
-    {
-      "name": "betterchunkloading-1.21-5.4.jar",
-      "path": "mods/betterchunkloading-1.21-5.4.jar",
-      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/betterchunkloading-1.21-5.4.jar"
     },
     {
       "name": "better_lib-neoforge-1.21.1-1.0.109.jar",
@@ -2136,6 +2266,11 @@
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/neoculus-mc1.21.1-1.8.7.jar"
     },
     {
+      "name": "noisiumed-3.0.1-neoforge-1.21.1.jar",
+      "path": "mods/noisiumed-3.0.1-neoforge-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/noisiumed-3.0.1-neoforge-1.21.1.jar"
+    },
+    {
       "name": "notenoughanimations-neoforge-1.11.1-mc1.21.1.jar",
       "path": "mods/notenoughanimations-neoforge-1.11.1-mc1.21.1.jar",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/notenoughanimations-neoforge-1.11.1-mc1.21.1.jar"
@@ -2264,11 +2399,6 @@
       "name": "skinrestorer-2.5.0+1.21-neoforge.jar",
       "path": "mods/skinrestorer-2.5.0+1.21-neoforge.jar",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/skinrestorer-2.5.0+1.21-neoforge.jar"
-    },
-    {
-      "name": "smoothchunk-1.21-4.1.jar",
-      "path": "mods/smoothchunk-1.21-4.1.jar",
-      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/smoothchunk-1.21-4.1.jar"
     },
     {
       "name": "SomeMoreBlocks@neoforge-1.21-1.1.5-HF.jar",
