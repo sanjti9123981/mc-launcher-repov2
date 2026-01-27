@@ -1786,6 +1786,11 @@
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/corpsecurioscompat-1.21.1-NeoForge-3.1.3.jar"
     },
     {
+      "name": "CraterLib-Neoforge-1.21-3.0.1.jar",
+      "path": "mods/CraterLib-Neoforge-1.21-3.0.1.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/CraterLib-Neoforge-1.21-3.0.1.jar"
+    },
+    {
       "name": "create-1.21.1-6.0.8.jar",
       "path": "mods/create-1.21.1-6.0.8.jar",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/create-1.21.1-6.0.8.jar"
@@ -1816,6 +1821,11 @@
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/createcontraptionterminals-1.21-1.2.0.jar"
     },
     {
+      "name": "createdeco-2.1.2.jar",
+      "path": "mods/createdeco-2.1.2.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/createdeco-2.1.2.jar"
+    },
+    {
       "name": "createdieselgenerators-1.21.1-1.3.8.jar",
       "path": "mods/createdieselgenerators-1.21.1-1.3.8.jar",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/createdieselgenerators-1.21.1-1.3.8.jar"
@@ -1829,6 +1839,11 @@
       "name": "createthreadedtrains-neoforge-1.21.1-1.0.0.jar",
       "path": "mods/createthreadedtrains-neoforge-1.21.1-1.0.0.jar",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/createthreadedtrains-neoforge-1.21.1-1.0.0.jar"
+    },
+    {
+      "name": "create_configured-1.3.1.jar",
+      "path": "mods/create_configured-1.3.1.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/create_configured-1.3.1.jar"
     },
     {
       "name": "create_connected-1.1.10-mc1.21.1.jar",
@@ -1911,6 +1926,11 @@
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/deeperdarker-neoforge-1.21-1.3.4.jar"
     },
     {
+      "name": "dimthread-NEOFORGE-mc1.21.1-v1.2.1.jar",
+      "path": "mods/dimthread-NEOFORGE-mc1.21.1-v1.2.1.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/dimthread-NEOFORGE-mc1.21.1-v1.2.1.jar"
+    },
+    {
       "name": "disenchanting_table-merged-1.21.1-5.0.2.jar",
       "path": "mods/disenchanting_table-merged-1.21.1-5.0.2.jar",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/disenchanting_table-merged-1.21.1-5.0.2.jar"
@@ -1934,11 +1954,6 @@
       "name": "durabilitytooltip-1.1.6-neoforge-mc1.21.jar",
       "path": "mods/durabilitytooltip-1.1.6-neoforge-mc1.21.jar",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/durabilitytooltip-1.1.6-neoforge-mc1.21.jar"
-    },
-    {
-      "name": "dynamic-fps-3.9.5+minecraft-1.21.0-neoforge.jar",
-      "path": "mods/dynamic-fps-3.9.5+minecraft-1.21.0-neoforge.jar",
-      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/dynamic-fps-3.9.5+minecraft-1.21.0-neoforge.jar"
     },
     {
       "name": "embeddium-1.0.15+mc1.21.1.jar",
@@ -1994,6 +2009,11 @@
       "name": "fastasyncworldsave-1.21-2.6.jar",
       "path": "mods/fastasyncworldsave-1.21-2.6.jar",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/fastasyncworldsave-1.21-2.6.jar"
+    },
+    {
+      "name": "fastboot-1.21.x-v1.3neo.jar",
+      "path": "mods/fastboot-1.21.x-v1.3neo.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/fastboot-1.21.x-v1.3neo.jar"
     },
     {
       "name": "FastSuite-1.21.1-6.0.6.jar",
@@ -2226,14 +2246,14 @@
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/mcef-neoforge-2.1.6-1.21.1.jar"
     },
     {
-      "name": "MCSP-1.21.1-V1.0.8.jar",
-      "path": "mods/MCSP-1.21.1-V1.0.8.jar",
-      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/MCSP-1.21.1-V1.0.8.jar"
-    },
-    {
       "name": "mcw-doors-1.1.2-mc1.21.1neoforge.jar",
       "path": "mods/mcw-doors-1.1.2-mc1.21.1neoforge.jar",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/mcw-doors-1.1.2-mc1.21.1neoforge.jar"
+    },
+    {
+      "name": "megathread-1.0.0.jar",
+      "path": "mods/megathread-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/megathread-1.0.0.jar"
     },
     {
       "name": "melody_neoforge_1.0.10_MC_1.21.jar",
@@ -2461,6 +2481,11 @@
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/servercore-neoforge-1.5.5+1.21.1.jar"
     },
     {
+      "name": "SimpleRPC-4.0.5.jar",
+      "path": "mods/SimpleRPC-4.0.5.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/SimpleRPC-4.0.5.jar"
+    },
+    {
       "name": "skinlayers3d-neoforge-1.10.1-mc1.21.1.jar",
       "path": "mods/skinlayers3d-neoforge-1.10.1-mc1.21.1.jar",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/skinlayers3d-neoforge-1.10.1-mc1.21.1.jar"
@@ -2506,11 +2531,6 @@
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/structureessentials-1.21.1-4.8.jar"
     },
     {
-      "name": "superbwarfare-1.21.1-0.8.8-final-0cfd00d5.jar",
-      "path": "mods/superbwarfare-1.21.1-0.8.8-final-0cfd00d5.jar",
-      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/superbwarfare-1.21.1-0.8.8-final-0cfd00d5.jar"
-    },
-    {
       "name": "supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
       "path": "mods/supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/supermartijn642configlib-1.1.8-neoforge-mc1.21.jar"
@@ -2544,6 +2564,11 @@
       "name": "toms_storage-1.21-2.2.3.jar",
       "path": "mods/toms_storage-1.21-2.2.3.jar",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/toms_storage-1.21-2.2.3.jar"
+    },
+    {
+      "name": "TotemFactory-1.1.0+mc1.21.1-NeoForge.jar",
+      "path": "mods/TotemFactory-1.1.0+mc1.21.1-NeoForge.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/TotemFactory-1.1.0+mc1.21.1-NeoForge.jar"
     },
     {
       "name": "trading_floor-3.0.15.jar",
