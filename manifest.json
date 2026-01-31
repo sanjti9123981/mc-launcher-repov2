@@ -2066,11 +2066,6 @@
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/Highlighter-1.21-neoforge-1.1.11.jar"
     },
     {
-      "name": "holdmyitemsnf-1.21.1v2.1.jar",
-      "path": "mods/holdmyitemsnf-1.21.1v2.1.jar",
-      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/holdmyitemsnf-1.21.1v2.1.jar"
-    },
-    {
       "name": "Iceberg-1.21.1-neoforge-1.3.2.jar",
       "path": "mods/Iceberg-1.21.1-neoforge-1.3.2.jar",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/Iceberg-1.21.1-neoforge-1.3.2.jar"
@@ -2529,6 +2524,11 @@
       "name": "structureessentials-1.21.1-4.8.jar",
       "path": "mods/structureessentials-1.21.1-4.8.jar",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/structureessentials-1.21.1-4.8.jar"
+    },
+    {
+      "name": "superbwarfare-1.21.1-0.8.8-final-0cfd00d5.jar",
+      "path": "mods/superbwarfare-1.21.1-0.8.8-final-0cfd00d5.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/superbwarfare-1.21.1-0.8.8-final-0cfd00d5.jar"
     },
     {
       "name": "supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
