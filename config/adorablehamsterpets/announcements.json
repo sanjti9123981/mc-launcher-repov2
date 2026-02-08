@@ -1,10 +1,10 @@
 {
   "last_acknowledged_update": "3.4.0",
-  "manifest_etag": "\"3a82470ef37175a5254545be07dc5b06051c5b0282786219d7e5c524a8737bc7\"",
+  "manifest_etag": "\"7c730a960c13c7cdda12da97e23de399fac912264c2f8980abcf5dcc988ff304\"",
   "seen_ids": [
+    "whats-new-3.3.0",
     "whats-new-3.4.0",
     "curseforge_moty_vote",
-    "whats-new-3.3.0",
     "update-3.4.0"
   ]
 }
