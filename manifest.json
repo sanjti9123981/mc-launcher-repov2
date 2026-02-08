@@ -96,6 +96,11 @@
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/appleskin-client.toml"
     },
     {
+      "name": "awesomedungeonocean_1.properties",
+      "path": "config/awesomedungeonocean_1.properties",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/awesomedungeonocean_1.properties"
+    },
+    {
       "name": "badoptimizations.txt",
       "path": "config/badoptimizations.txt",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/badoptimizations.txt"
@@ -111,9 +116,39 @@
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/better_lib/common.json"
     },
     {
+      "name": "c2me.toml",
+      "path": "config/c2me.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/c2me.toml"
+    },
+    {
       "name": "carbonconfig.cfg",
       "path": "config/carbonconfig.cfg",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/carbonconfig.cfg"
+    },
+    {
+      "name": "cataclysm-client.toml",
+      "path": "config/cataclysm-client.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cataclysm-client.toml"
+    },
+    {
+      "name": "cataclysm-common.toml",
+      "path": "config/cataclysm-common.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cataclysm-common.toml"
+    },
+    {
+      "name": "cerulean-client.toml",
+      "path": "config/cerulean-client.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cerulean-client.toml"
+    },
+    {
+      "name": "cerulean-common.toml",
+      "path": "config/cerulean-common.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cerulean-common.toml"
+    },
+    {
+      "name": "cerulean.yml",
+      "path": "config/cerulean.yml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cerulean.yml"
     },
     {
       "name": "chatanimation.json",
@@ -261,6 +296,11 @@
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/create_jetpack-common.toml"
     },
     {
+      "name": "creativecore-client.json",
+      "path": "config/creativecore-client.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/creativecore-client.json"
+    },
+    {
       "name": "creeperoverhaul.jsonc",
       "path": "config/creeperoverhaul.jsonc",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/creeperoverhaul.jsonc"
@@ -269,6 +309,216 @@
       "name": "crepperoverhaul-client.jsonc",
       "path": "config/crepperoverhaul-client.jsonc",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/crepperoverhaul-client.jsonc"
+    },
+    {
+      "name": "structure_placement_config.json5",
+      "path": "config/cristellib/aether/structure_placement_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/aether/structure_placement_config.json5"
+    },
+    {
+      "name": "structure_toggle_config.json5",
+      "path": "config/cristellib/aether/structure_toggle_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/aether/structure_toggle_config.json5"
+    },
+    {
+      "name": "auto_config_settings.json5",
+      "path": "config/cristellib/auto_config_settings.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/auto_config_settings.json5"
+    },
+    {
+      "name": "structure_toggle_config.json5",
+      "path": "config/cristellib/awesomedungeonocean/structure_toggle_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/awesomedungeonocean/structure_toggle_config.json5"
+    },
+    {
+      "name": "structure_placement_config.json5",
+      "path": "config/cristellib/born_in_chaos_v1/structure_placement_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/born_in_chaos_v1/structure_placement_config.json5"
+    },
+    {
+      "name": "structure_toggle_config.json5",
+      "path": "config/cristellib/born_in_chaos_v1/structure_toggle_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/born_in_chaos_v1/structure_toggle_config.json5"
+    },
+    {
+      "name": "built_in_packs.json5",
+      "path": "config/cristellib/built_in_packs.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/built_in_packs.json5"
+    },
+    {
+      "name": "structure_placement_config.json5",
+      "path": "config/cristellib/cataclysm/structure_placement_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/cataclysm/structure_placement_config.json5"
+    },
+    {
+      "name": "structure_toggle_config.json5",
+      "path": "config/cristellib/cataclysm/structure_toggle_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/cataclysm/structure_toggle_config.json5"
+    },
+    {
+      "name": "structure_placement_config.json5",
+      "path": "config/cristellib/create_rustic_structures/structure_placement_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/create_rustic_structures/structure_placement_config.json5"
+    },
+    {
+      "name": "structure_toggle_config.json5",
+      "path": "config/cristellib/create_rustic_structures/structure_toggle_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/create_rustic_structures/structure_toggle_config.json5"
+    },
+    {
+      "name": "structure_placement_config.json5",
+      "path": "config/cristellib/darkerdepths/structure_placement_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/darkerdepths/structure_placement_config.json5"
+    },
+    {
+      "name": "structure_toggle_config.json5",
+      "path": "config/cristellib/darkerdepths/structure_toggle_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/darkerdepths/structure_toggle_config.json5"
+    },
+    {
+      "name": "structure_placement_config.json5",
+      "path": "config/cristellib/deeperdarker/structure_placement_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/deeperdarker/structure_placement_config.json5"
+    },
+    {
+      "name": "structure_toggle_config.json5",
+      "path": "config/cristellib/deeperdarker/structure_toggle_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/deeperdarker/structure_toggle_config.json5"
+    },
+    {
+      "name": "structure_placement_config.json5",
+      "path": "config/cristellib/explorify/structure_placement_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/explorify/structure_placement_config.json5"
+    },
+    {
+      "name": "structure_toggle_config.json5",
+      "path": "config/cristellib/explorify/structure_toggle_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/explorify/structure_toggle_config.json5"
+    },
+    {
+      "name": "structure_placement_config.json5",
+      "path": "config/cristellib/friendsandfoes/structure_placement_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/friendsandfoes/structure_placement_config.json5"
+    },
+    {
+      "name": "structure_toggle_config.json5",
+      "path": "config/cristellib/friendsandfoes/structure_toggle_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/friendsandfoes/structure_toggle_config.json5"
+    },
+    {
+      "name": "structure_placement_config.json5",
+      "path": "config/cristellib/incendium/structure_placement_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/incendium/structure_placement_config.json5"
+    },
+    {
+      "name": "structure_toggle_config.json5",
+      "path": "config/cristellib/incendium/structure_toggle_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/incendium/structure_toggle_config.json5"
+    },
+    {
+      "name": "structure_toggle_config.json5",
+      "path": "config/cristellib/mes/structure_toggle_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/mes/structure_toggle_config.json5"
+    },
+    {
+      "name": "structure_toggle_config.json5",
+      "path": "config/cristellib/mns/structure_toggle_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/mns/structure_toggle_config.json5"
+    },
+    {
+      "name": "structure_placement_config.json5",
+      "path": "config/cristellib/mr_dungeons_andtaverns/structure_placement_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/mr_dungeons_andtaverns/structure_placement_config.json5"
+    },
+    {
+      "name": "structure_toggle_config.json5",
+      "path": "config/cristellib/mr_dungeons_andtaverns/structure_toggle_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/mr_dungeons_andtaverns/structure_toggle_config.json5"
+    },
+    {
+      "name": "structure_toggle_config.json5",
+      "path": "config/cristellib/mvs/structure_toggle_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/mvs/structure_toggle_config.json5"
+    },
+    {
+      "name": "structure_placement_config.json5",
+      "path": "config/cristellib/oeuvre/structure_placement_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/oeuvre/structure_placement_config.json5"
+    },
+    {
+      "name": "structure_toggle_config.json5",
+      "path": "config/cristellib/oeuvre/structure_toggle_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/oeuvre/structure_toggle_config.json5"
+    },
+    {
+      "name": "structure_placement_config.json5",
+      "path": "config/cristellib/structory/structure_placement_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/structory/structure_placement_config.json5"
+    },
+    {
+      "name": "structure_toggle_config.json5",
+      "path": "config/cristellib/structory/structure_toggle_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/structory/structure_toggle_config.json5"
+    },
+    {
+      "name": "structure_placement_config.json5",
+      "path": "config/cristellib/teamlapenlib/structure_placement_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/teamlapenlib/structure_placement_config.json5"
+    },
+    {
+      "name": "structure_toggle_config.json5",
+      "path": "config/cristellib/teamlapenlib/structure_toggle_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/teamlapenlib/structure_toggle_config.json5"
+    },
+    {
+      "name": "structure_toggle_config.json5",
+      "path": "config/cristellib/the_bumblezone/structure_toggle_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/the_bumblezone/structure_toggle_config.json5"
+    },
+    {
+      "name": "structure_placement_config.json5",
+      "path": "config/cristellib/tombstone/structure_placement_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/tombstone/structure_placement_config.json5"
+    },
+    {
+      "name": "structure_toggle_config.json5",
+      "path": "config/cristellib/tombstone/structure_toggle_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/tombstone/structure_toggle_config.json5"
+    },
+    {
+      "name": "structure_toggle_config.json5",
+      "path": "config/cristellib/twilightforest/structure_toggle_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/twilightforest/structure_toggle_config.json5"
+    },
+    {
+      "name": "structure_placement_config.json5",
+      "path": "config/cristellib/underground_villages/structure_placement_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/underground_villages/structure_placement_config.json5"
+    },
+    {
+      "name": "structure_toggle_config.json5",
+      "path": "config/cristellib/underground_villages/structure_toggle_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/underground_villages/structure_toggle_config.json5"
+    },
+    {
+      "name": "structure_placement_config.json5",
+      "path": "config/cristellib/vampirism/structure_placement_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/vampirism/structure_placement_config.json5"
+    },
+    {
+      "name": "structure_toggle_config.json5",
+      "path": "config/cristellib/vampirism/structure_toggle_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/vampirism/structure_toggle_config.json5"
+    },
+    {
+      "name": "structure_placement_config.json5",
+      "path": "config/cristellib/villager_warship/structure_placement_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/villager_warship/structure_placement_config.json5"
+    },
+    {
+      "name": "structure_toggle_config.json5",
+      "path": "config/cristellib/villager_warship/structure_toggle_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/villager_warship/structure_toggle_config.json5"
     },
     {
       "name": "croptopia_v3.conf",
@@ -316,6 +566,11 @@
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/deeperdarker-common.toml"
     },
     {
+      "name": "dimthread-common.toml",
+      "path": "config/dimthread-common.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/dimthread-common.toml"
+    },
+    {
       "name": "disenchanting_table-client.toml",
       "path": "config/disenchanting_table-client.toml",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/disenchanting_table-client.toml"
@@ -339,6 +594,11 @@
       "name": "dramaticdoors-startup.toml",
       "path": "config/dramaticdoors-startup.toml",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/dramaticdoors-startup.toml"
+    },
+    {
+      "name": "options.txt",
+      "path": "config/drippyloadingscreen/options.txt",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/drippyloadingscreen/options.txt"
     },
     {
       "name": "durabilitytooltip-common.toml",
@@ -501,6 +761,11 @@
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/fancymenu/customizablemenus.txt"
     },
     {
+      "name": "drippy_loading_overlay_layout.txt",
+      "path": "config/fancymenu/customization/drippy_loading_overlay_layout.txt",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/fancymenu/customization/drippy_loading_overlay_layout.txt"
+    },
+    {
       "name": "title_screen_layout.txt",
       "path": "config/fancymenu/customization/title_screen_layout.txt",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/fancymenu/customization/title_screen_layout.txt"
@@ -629,6 +894,11 @@
       "name": "immersive_melodies.json",
       "path": "config/immersive_melodies.json",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/immersive_melodies.json"
+    },
+    {
+      "name": "immersive_portals.json",
+      "path": "config/immersive_portals.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/immersive_portals.json"
     },
     {
       "name": "curios.json",
@@ -771,6 +1041,11 @@
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/legendarytooltips.toml"
     },
     {
+      "name": "libraryferret_1.properties",
+      "path": "config/libraryferret_1.properties",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/libraryferret_1.properties"
+    },
+    {
       "name": "limitedchunks.json",
       "path": "config/limitedchunks.json",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/limitedchunks.json"
@@ -849,6 +1124,11 @@
       "name": "mcef.properties",
       "path": "config/mcef/mcef.properties",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/mcef/mcef.properties"
+    },
+    {
+      "name": "megathread.json",
+      "path": "config/megathread.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/megathread.json"
     },
     {
       "name": "midnightlib.json",
@@ -941,6 +1221,11 @@
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/MouseTweaks.cfg"
     },
     {
+      "name": "mpem.toml",
+      "path": "config/mpem.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/mpem.toml"
+    },
+    {
       "name": "naturescompass-client.toml",
       "path": "config/naturescompass-client.toml",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/naturescompass-client.toml"
@@ -976,6 +1261,16 @@
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/neoforge-server.toml"
     },
     {
+      "name": "emi.yaml",
+      "path": "config/nerb/compat/emi.yaml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/nerb/compat/emi.yaml"
+    },
+    {
+      "name": "general.yaml",
+      "path": "config/nerb/general.yaml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/nerb/general.yaml"
+    },
+    {
       "name": "notenoughanimations.json",
       "path": "config/notenoughanimations.json",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/notenoughanimations.json"
@@ -989,6 +1284,16 @@
       "name": "oculus.properties",
       "path": "config/oculus.properties",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/oculus.properties"
+    },
+    {
+      "name": "oeuvre-common.toml",
+      "path": "config/oeuvre-common.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/oeuvre-common.toml"
+    },
+    {
+      "name": "particlerain.json",
+      "path": "config/particlerain.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/particlerain.json"
     },
     {
       "name": "patchouli-client.toml",
@@ -1271,6 +1576,11 @@
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/plasmovoice/server/voice_mutes.json"
     },
     {
+      "name": "playerrevive-client.json",
+      "path": "config/playerrevive-client.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/playerrevive-client.json"
+    },
+    {
       "name": "plushie_buddies-common.toml",
       "path": "config/plushie_buddies-common.toml",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/plushie_buddies-common.toml"
@@ -1316,6 +1626,11 @@
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/rightclickharvest.json5"
     },
     {
+      "name": "saturn-optimizations.toml",
+      "path": "config/saturn-optimizations.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/saturn-optimizations.toml"
+    },
+    {
       "name": "scalablelux.properties",
       "path": "config/scalablelux.properties",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/scalablelux.properties"
@@ -1329,6 +1644,21 @@
       "name": "optimizations.yml",
       "path": "config/servercore/optimizations.yml",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/servercore/optimizations.yml"
+    },
+    {
+      "name": "server-entries.toml",
+      "path": "config/simple-rpc/server-entries.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/simple-rpc/server-entries.toml"
+    },
+    {
+      "name": "simple-rpc.toml",
+      "path": "config/simple-rpc/simple-rpc.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/simple-rpc/simple-rpc.toml"
+    },
+    {
+      "name": "simpletomb.toml",
+      "path": "config/simpletomb.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/simpletomb.toml"
     },
     {
       "name": "skinlayers.json",
@@ -1386,6 +1716,11 @@
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/sound_physics_remastered/soundphysics.properties"
     },
     {
+      "name": "about.txt",
+      "path": "config/spark/tmp/about.txt",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/spark/tmp/about.txt"
+    },
+    {
       "name": "storagedrawers-client.toml",
       "path": "config/storagedrawers-client.toml",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/storagedrawers-client.toml"
@@ -1399,6 +1734,16 @@
       "name": "structureessentials.json",
       "path": "config/structureessentials.json",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/structureessentials.json"
+    },
+    {
+      "name": "superbwarfare-client.toml",
+      "path": "config/superbwarfare-client.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/superbwarfare-client.toml"
+    },
+    {
+      "name": "superbwarfare-common.toml",
+      "path": "config/superbwarfare-common.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/superbwarfare-common.toml"
     },
     {
       "name": "tacz-client.toml",
@@ -1461,6 +1806,16 @@
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/toadlib_config.txt"
     },
     {
+      "name": "tombstone-client.toml",
+      "path": "config/tombstone-client.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/tombstone-client.toml"
+    },
+    {
+      "name": "tombstone-common.toml",
+      "path": "config/tombstone-common.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/tombstone-common.toml"
+    },
+    {
       "name": "toms_storage-common.toml",
       "path": "config/toms_storage-common.toml",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/toms_storage-common.toml"
@@ -1469,6 +1824,16 @@
       "name": "toms_storage-server.toml",
       "path": "config/toms_storage-server.toml",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/toms_storage-server.toml"
+    },
+    {
+      "name": "structure_enable_or_disable_new.json5",
+      "path": "config/towns_and_towers/structure_enable_or_disable_new.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/towns_and_towers/structure_enable_or_disable_new.json5"
+    },
+    {
+      "name": "structure_rarity_new.json5",
+      "path": "config/towns_and_towers/structure_rarity_new.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/towns_and_towers/structure_rarity_new.json5"
     },
     {
       "name": "trading_floor-server.toml",
@@ -1506,9 +1871,44 @@
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/tweakeroo.json"
     },
     {
+      "name": "twilightforest-client.toml",
+      "path": "config/twilightforest-client.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/twilightforest-client.toml"
+    },
+    {
+      "name": "twilightforest-common.toml",
+      "path": "config/twilightforest-common.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/twilightforest-common.toml"
+    },
+    {
       "name": "underground_villages-common.toml",
       "path": "config/underground_villages-common.toml",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/underground_villages-common.toml"
+    },
+    {
+      "name": "vampiresneedumbrellas-common.toml",
+      "path": "config/vampiresneedumbrellas-common.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/vampiresneedumbrellas-common.toml"
+    },
+    {
+      "name": "vampirism-client.toml",
+      "path": "config/vampirism-client.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/vampirism-client.toml"
+    },
+    {
+      "name": "vampirism-common.toml",
+      "path": "config/vampirism-common.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/vampirism-common.toml"
+    },
+    {
+      "name": "placement_structure_config.json5",
+      "path": "config/vanilla_structures/placement_structure_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/vanilla_structures/placement_structure_config.json5"
+    },
+    {
+      "name": "toggle_structure_config.json5",
+      "path": "config/vanilla_structures/toggle_structure_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/vanilla_structures/toggle_structure_config.json5"
     },
     {
       "name": "config.toml",
@@ -2216,6 +2616,11 @@
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/ls_furniture-1.0.9-NeoForge-1.21.1.jar"
     },
     {
+      "name": "L_Ender's Cataclysm 1.21.1-3.23.jar",
+      "path": "mods/L_Ender's Cataclysm 1.21.1-3.23.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/L_Ender's Cataclysm 1.21.1-3.23.jar"
+    },
+    {
       "name": "mafglib-0.4.2+mc1.21.1.jar",
       "path": "mods/mafglib-0.4.2+mc1.21.1.jar",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/mafglib-0.4.2+mc1.21.1.jar"
@@ -2294,11 +2699,6 @@
       "name": "NaturesCompass-1.21.1-3.0.3-neoforge.jar",
       "path": "mods/NaturesCompass-1.21.1-3.0.3-neoforge.jar",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/NaturesCompass-1.21.1-3.0.3-neoforge.jar"
-    },
-    {
-      "name": "necessities-0.1.2-1.21-neoforge.jar",
-      "path": "mods/necessities-0.1.2-1.21-neoforge.jar",
-      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/necessities-0.1.2-1.21-neoforge.jar"
     },
     {
       "name": "Necronomicon-NeoForge-1.6.0+1.21.jar",
