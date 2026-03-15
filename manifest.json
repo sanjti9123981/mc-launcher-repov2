@@ -3171,19 +3171,29 @@
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/resourcepacks/A Good Place Sample Pack.zip"
     },
     {
+      "name": "Better+Lanterns+v1.2(mc-1.21).zip",
+      "path": "resourcepacks/Better+Lanterns+v1.2(mc-1.21).zip",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/resourcepacks/Better+Lanterns+v1.2(mc-1.21).zip"
+    },
+    {
       "name": "boss-refreshed-v2-1.19-1.21.zip",
       "path": "resourcepacks/boss-refreshed-v2-1.19-1.21.zip",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/resourcepacks/boss-refreshed-v2-1.19-1.21.zip"
     },
     {
-      "name": "FA+All_Extensions-v1.7.zip",
-      "path": "resourcepacks/FA+All_Extensions-v1.7.zip",
-      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/resourcepacks/FA+All_Extensions-v1.7.zip"
+      "name": "Default-Dark-Mode-1.20.2+-2025.5.0.zip",
+      "path": "resourcepacks/Default-Dark-Mode-1.20.2+-2025.5.0.zip",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/resourcepacks/Default-Dark-Mode-1.20.2+-2025.5.0.zip"
     },
     {
-      "name": "FreshAnimations_v1.10.3.zip",
-      "path": "resourcepacks/FreshAnimations_v1.10.3.zip",
-      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/resourcepacks/FreshAnimations_v1.10.3.zip"
+      "name": "FA+All_Extensions-v1.8.zip",
+      "path": "resourcepacks/FA+All_Extensions-v1.8.zip",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/resourcepacks/FA+All_Extensions-v1.8.zip"
+    },
+    {
+      "name": "FreshAnimations_v1.10.4.zip",
+      "path": "resourcepacks/FreshAnimations_v1.10.4.zip",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/resourcepacks/FreshAnimations_v1.10.4.zip"
     },
     {
       "name": "LowOnFire 1.21.3.zip",
@@ -3196,44 +3206,54 @@
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/resourcepacks/Simple Grass Flowers v1.9.5.zip"
     },
     {
-      "name": "BSL_v10.1.zip",
-      "path": "shaderpacks/BSL_v10.1.zip",
-      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/shaderpacks/BSL_v10.1.zip"
+      "name": "[1.5] Enhanced Boss Bars.zip",
+      "path": "resourcepacks/[1.5] Enhanced Boss Bars.zip",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/resourcepacks/[1.5] Enhanced Boss Bars.zip"
     },
     {
-      "name": "ComplementaryReimagined_r5.6.1.zip",
-      "path": "shaderpacks/ComplementaryReimagined_r5.6.1.zip",
-      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/shaderpacks/ComplementaryReimagined_r5.6.1.zip"
+      "name": "[Compressed] Alternative Rain Sounds 1.21-1.21.1.zip",
+      "path": "resourcepacks/[Compressed] Alternative Rain Sounds 1.21-1.21.1.zip",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/resourcepacks/[Compressed] Alternative Rain Sounds 1.21-1.21.1.zip"
     },
     {
-      "name": "CTR-VCR_v1.3.1.zip",
-      "path": "shaderpacks/CTR-VCR_v1.3.1.zip",
-      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/shaderpacks/CTR-VCR_v1.3.1.zip"
+      "name": "§b§lVanilla Experience+§0.zip",
+      "path": "resourcepacks/§b§lVanilla Experience+§0.zip",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/resourcepacks/§b§lVanilla Experience+§0.zip"
     },
     {
-      "name": "MakeUp-UltraFast-9.4a.zip",
-      "path": "shaderpacks/MakeUp-UltraFast-9.4a.zip",
-      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/shaderpacks/MakeUp-UltraFast-9.4a.zip"
+      "name": "AmethystShaders_2.4.zip",
+      "path": "shaderpacks/AmethystShaders_2.4.zip",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/shaderpacks/AmethystShaders_2.4.zip"
     },
     {
-      "name": "optimism.zip",
-      "path": "shaderpacks/optimism.zip",
-      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/shaderpacks/optimism.zip"
+      "name": "Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
+      "path": "shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip"
     },
     {
-      "name": "Pyvtron V1.3.2.zip",
-      "path": "shaderpacks/Pyvtron V1.3.2.zip",
-      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/shaderpacks/Pyvtron V1.3.2.zip"
+      "name": "BSL_v10.1.1.zip",
+      "path": "shaderpacks/BSL_v10.1.1.zip",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/shaderpacks/BSL_v10.1.1.zip"
     },
     {
-      "name": "Solas Shader V3.2.zip",
-      "path": "shaderpacks/Solas Shader V3.2.zip",
-      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/shaderpacks/Solas Shader V3.2.zip"
+      "name": "ComplementaryReimagined_r5.7.1.zip",
+      "path": "shaderpacks/ComplementaryReimagined_r5.7.1.zip",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/shaderpacks/ComplementaryReimagined_r5.7.1.zip"
     },
     {
-      "name": "VanillaPlus_v3.3.zip",
-      "path": "shaderpacks/VanillaPlus_v3.3.zip",
-      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/shaderpacks/VanillaPlus_v3.3.zip"
+      "name": "ComplementaryUnbound_r5.7.1.zip",
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1.zip",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/shaderpacks/ComplementaryUnbound_r5.7.1.zip"
+    },
+    {
+      "name": "Solas Shader V3.4.zip",
+      "path": "shaderpacks/Solas Shader V3.4.zip",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/shaderpacks/Solas Shader V3.4.zip"
+    },
+    {
+      "name": "VHS Overlay.zip",
+      "path": "shaderpacks/VHS Overlay.zip",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/shaderpacks/VHS Overlay.zip"
     }
   ]
 }
