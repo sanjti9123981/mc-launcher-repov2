@@ -2091,6 +2091,11 @@
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/better_modlist-1.1.22.jar"
     },
     {
+      "name": "blockentities-[NEOFORGED]-1.21.1+1.1.0.jar",
+      "path": "mods/blockentities-[NEOFORGED]-1.21.1+1.1.0.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/blockentities-[NEOFORGED]-1.21.1+1.1.0.jar"
+    },
+    {
       "name": "bocchud-0.4.0+mc1.21.1.jar",
       "path": "mods/bocchud-0.4.0+mc1.21.1.jar",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/bocchud-0.4.0+mc1.21.1.jar"
@@ -2149,6 +2154,11 @@
       "name": "collective-1.21.1-8.13.jar",
       "path": "mods/collective-1.21.1-8.13.jar",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/collective-1.21.1-8.13.jar"
+    },
+    {
+      "name": "colorwheel-neoforge-1.2.2+mc1.21.1.jar",
+      "path": "mods/colorwheel-neoforge-1.2.2+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/colorwheel-neoforge-1.2.2+mc1.21.1.jar"
     },
     {
       "name": "connectedglass-1.1.14-neoforge-mc1.21.jar",
@@ -2939,11 +2949,6 @@
       "name": "Searchables-neoforge-1.21.1-1.0.2.jar",
       "path": "mods/Searchables-neoforge-1.21.1-1.0.2.jar",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/Searchables-neoforge-1.21.1-1.0.2.jar"
-    },
-    {
-      "name": "servercore-neoforge-1.5.5+1.21.1.jar",
-      "path": "mods/servercore-neoforge-1.5.5+1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/servercore-neoforge-1.5.5+1.21.1.jar"
     },
     {
       "name": "SimpleRPC-4.0.5.jar",
