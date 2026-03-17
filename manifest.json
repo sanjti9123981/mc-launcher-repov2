@@ -2016,6 +2016,11 @@
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/aether-1.21.1-1.5.10-neoforge.jar"
     },
     {
+      "name": "AI-Improvements-1.21-0.5.3.jar",
+      "path": "mods/AI-Improvements-1.21-0.5.3.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/AI-Improvements-1.21-0.5.3.jar"
+    },
+    {
       "name": "ajolo-coin-1.3.jar",
       "path": "mods/ajolo-coin-1.3.jar",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/ajolo-coin-1.3.jar"
@@ -2044,6 +2049,11 @@
       "name": "architectury-13.0.8-neoforge.jar",
       "path": "mods/architectury-13.0.8-neoforge.jar",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/architectury-13.0.8-neoforge.jar"
+    },
+    {
+      "name": "async-locator-refined-neoforge-1.21.1-1.5.2-hotfix.jar",
+      "path": "mods/async-locator-refined-neoforge-1.21.1-1.5.2-hotfix.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/async-locator-refined-neoforge-1.21.1-1.5.2-hotfix.jar"
     },
     {
       "name": "awesomedungeonocean-neoforge-1.21.1-3.3.0.jar",
@@ -2791,6 +2801,11 @@
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/Nedologin-1.21.1-1.0.9-all (1).jar"
     },
     {
+      "name": "noisium-neoforge-2.3.0+mc1.21-1.21.1.jar",
+      "path": "mods/noisium-neoforge-2.3.0+mc1.21-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/noisium-neoforge-2.3.0+mc1.21-1.21.1.jar"
+    },
+    {
       "name": "noisiumed-3.0.3-neoforge-1.21.1.jar",
       "path": "mods/noisiumed-3.0.3-neoforge-1.21.1.jar",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/noisiumed-3.0.3-neoforge-1.21.1.jar"
@@ -2946,9 +2961,19 @@
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/Searchables-neoforge-1.21.1-1.0.2.jar"
     },
     {
+      "name": "servercore-neoforge-1.5.5+1.21.1.jar",
+      "path": "mods/servercore-neoforge-1.5.5+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/servercore-neoforge-1.5.5+1.21.1.jar"
+    },
+    {
       "name": "SimpleRPC-4.0.5.jar",
       "path": "mods/SimpleRPC-4.0.5.jar",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/SimpleRPC-4.0.5.jar"
+    },
+    {
+      "name": "simpletomb-1.21.1-1.4.4.jar",
+      "path": "mods/simpletomb-1.21.1-1.4.4.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/simpletomb-1.21.1-1.4.4.jar"
     },
     {
       "name": "skinlayers3d-neoforge-1.10.2-mc1.21.1.jar",
@@ -3034,6 +3059,11 @@
       "name": "the_bumblezone-7.11.10+1.21.1-neoforge.jar",
       "path": "mods/the_bumblezone-7.11.10+1.21.1-neoforge.jar",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/the_bumblezone-7.11.10+1.21.1-neoforge.jar"
+    },
+    {
+      "name": "threadtweak-1.21.1-NeoForge-1.0.0.jar",
+      "path": "mods/threadtweak-1.21.1-NeoForge-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/threadtweak-1.21.1-NeoForge-1.0.0.jar"
     },
     {
       "name": "Toadlib-1.3.2-1.21-1.21.1.jar",
