@@ -2794,6 +2794,13 @@
       "size": 250
     },
     {
+      "name": "acceleratedrendering-1.0.8-1.21.1-alpha.jar",
+      "path": "mods/acceleratedrendering-1.0.8-1.21.1-alpha.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/acceleratedrendering-1.0.8-1.21.1-alpha.jar",
+      "hash": "82ac4bb97276641c23aaf73b57508b74",
+      "size": 471965
+    },
+    {
       "name": "advancednetherite-neoforge-2.3.1-1.21.1.jar",
       "path": "mods/advancednetherite-neoforge-2.3.1-1.21.1.jar",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/advancednetherite-neoforge-2.3.1-1.21.1.jar",
@@ -3018,25 +3025,11 @@
       "size": 946726
     },
     {
-      "name": "colorwheel-neoforge-1.2.2+mc1.21.1.jar",
-      "path": "mods/colorwheel-neoforge-1.2.2+mc1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/colorwheel-neoforge-1.2.2+mc1.21.1.jar",
-      "hash": "548b4e4b9b2f07df4ce43272d82a913f",
-      "size": 374610
-    },
-    {
       "name": "connectedglass-1.1.14-neoforge-mc1.21.jar",
       "path": "mods/connectedglass-1.1.14-neoforge-mc1.21.jar",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/connectedglass-1.1.14-neoforge-mc1.21.jar",
       "hash": "978a7bee8daa65f9e3b480405e6da41c",
       "size": 819976
-    },
-    {
-      "name": "connectivity-1.21.1-7.6 (1).jar",
-      "path": "mods/connectivity-1.21.1-7.6 (1).jar",
-      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/connectivity-1.21.1-7.6 (1).jar",
-      "hash": "f2d38f850688eefa338b807801df2b4b",
-      "size": 114165
     },
     {
       "name": "connectivity-1.21.1-7.6.jar",
@@ -3107,6 +3100,13 @@
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/createaddition-1.5.10.jar",
       "hash": "7f5703ccd9fce093e5501f64986028c7",
       "size": 1595173
+    },
+    {
+      "name": "createbetterfps-1.21.1-1.1.3.jar",
+      "path": "mods/createbetterfps-1.21.1-1.1.3.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/createbetterfps-1.21.1-1.1.3.jar",
+      "hash": "dfb12a23ceaf443cb0d10b1f578a19f8",
+      "size": 26171
     },
     {
       "name": "createbigcannons-5.11.2-mc.1.21.1.jar",
@@ -3599,13 +3599,6 @@
       "size": 4267528
     },
     {
-      "name": "instant-respawn-v1.0.3.jar",
-      "path": "mods/instant-respawn-v1.0.3.jar",
-      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/instant-respawn-v1.0.3.jar",
-      "hash": "2e05ebe02c02395de48b538a7a8d4769",
-      "size": 131937
-    },
-    {
       "name": "inventoryhud.neoforged.1.21.1-3.4.28.jar",
       "path": "mods/inventoryhud.neoforged.1.21.1-3.4.28.jar",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/inventoryhud.neoforged.1.21.1-3.4.28.jar",
@@ -3669,11 +3662,11 @@
       "size": 6869790
     },
     {
-      "name": "krypton_fnp-neoforge-1.21.1-0.2.28.1-1.21.1.jar",
-      "path": "mods/krypton_fnp-neoforge-1.21.1-0.2.28.1-1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/krypton_fnp-neoforge-1.21.1-0.2.28.1-1.21.1.jar",
-      "hash": "1c215ed088f6d5a32d17656b089bae94",
-      "size": 1015871
+      "name": "KryptonFoxified-0.1.0+mc1.21.jar",
+      "path": "mods/KryptonFoxified-0.1.0+mc1.21.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/KryptonFoxified-0.1.0+mc1.21.jar",
+      "hash": "8847cc09f246ed6d99f3b90e4cf26592",
+      "size": 189002
     },
     {
       "name": "Ksyxis-1.3.4.jar",
@@ -3702,6 +3695,13 @@
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/larion-neoforge-1.21.1-4.3.0.jar",
       "hash": "13da0c4cb0826bbc45022b1cd3edc7c7",
       "size": 79324
+    },
+    {
+      "name": "LazyDFU-[UNOFFICIAL]+1.21.jar",
+      "path": "mods/LazyDFU-[UNOFFICIAL]+1.21.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/LazyDFU-[UNOFFICIAL]+1.21.jar",
+      "hash": "f7544ec5d55b4f01f76837826ebfb1b7",
+      "size": 14264
     },
     {
       "name": "leaky-1.21-2.4.jar",
@@ -3744,6 +3744,13 @@
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/lithium-neoforge-0.15.3+mc1.21.1.jar",
       "hash": "8207aaae8fea906c7eb2447da40b8c83",
       "size": 774148
+    },
+    {
+      "name": "loadmychunks-1.2.2.1+1.21.1+neoforge.jar",
+      "path": "mods/loadmychunks-1.2.2.1+1.21.1+neoforge.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/loadmychunks-1.2.2.1+1.21.1+neoforge.jar",
+      "hash": "0bb47ec724d0482bb1d46a0baa9f14ce",
+      "size": 454387
     },
     {
       "name": "loadsupport-neoforge-1.21.1-1.2.1.jar",
@@ -3921,6 +3928,13 @@
       "size": 3768617
     },
     {
+      "name": "noisium-neoforge-2.7.0+mc1.21-1.21.1 (1).jar",
+      "path": "mods/noisium-neoforge-2.7.0+mc1.21-1.21.1 (1).jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/noisium-neoforge-2.7.0+mc1.21-1.21.1 (1).jar",
+      "hash": "2c7cf8892e4a59130b479ccfcac4ff0e",
+      "size": 60512
+    },
+    {
       "name": "Not Enough Recipe Book-NEOFORGE-0.4.3+1.21.jar",
       "path": "mods/Not Enough Recipe Book-NEOFORGE-0.4.3+1.21.jar",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/Not Enough Recipe Book-NEOFORGE-0.4.3+1.21.jar",
@@ -3963,6 +3977,13 @@
       "size": 1221583
     },
     {
+      "name": "papi-1.21-neoforge-1.0.1.jar",
+      "path": "mods/papi-1.21-neoforge-1.0.1.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/papi-1.21-neoforge-1.0.1.jar",
+      "hash": "e0b66517e2e84264f1d20b52b42ba7d4",
+      "size": 19173
+    },
+    {
       "name": "particlerain-4.0.0-beta.6+1.21.1-neoforge.jar",
       "path": "mods/particlerain-4.0.0-beta.6+1.21.1-neoforge.jar",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/particlerain-4.0.0-beta.6+1.21.1-neoforge.jar",
@@ -3975,13 +3996,6 @@
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/Patchouli-1.21.1-93-NEOFORGE.jar",
       "hash": "8178d65cd07dd7a646446729058ae2bf",
       "size": 646777
-    },
-    {
-      "name": "Ping-Wheel-1.12.1-neoforge-1.21.1.jar",
-      "path": "mods/Ping-Wheel-1.12.1-neoforge-1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/Ping-Wheel-1.12.1-neoforge-1.21.1.jar",
-      "hash": "0a5d1ff16496d2bc72305053af3e3077",
-      "size": 153208
     },
     {
       "name": "Placebo-1.21.1-9.9.1.jar",
@@ -4073,6 +4087,13 @@
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/redirected-neoforge-1.0.0-1.21.1.jar",
       "hash": "8cdabfc021f961363b24f1abe57a4fb2",
       "size": 217587
+    },
+    {
+      "name": "reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar",
+      "path": "mods/reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar",
+      "hash": "f3a0d7f31993d6f34e90f816f82cbcaf",
+      "size": 78451
     },
     {
       "name": "refurbished_furniture-neoforge-1.21.1-1.0.22.jar",
@@ -4180,6 +4201,13 @@
       "size": 242101
     },
     {
+      "name": "SmoothBoot-NeoForge+1.21-1.0.0.jar",
+      "path": "mods/SmoothBoot-NeoForge+1.21-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/SmoothBoot-NeoForge+1.21-1.0.0.jar",
+      "hash": "1b97b29372fd55c8536bb89a11e3a6ae",
+      "size": 33070
+    },
+    {
       "name": "smoothchunk-1.21-4.1.jar",
       "path": "mods/smoothchunk-1.21-4.1.jar",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/smoothchunk-1.21-4.1.jar",
@@ -4241,6 +4269,13 @@
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/structure_layout_optimizer-neoforge-1.0.12.jar",
       "hash": "b0ad6a0fd2ad8f04f5634edcaadf5421",
       "size": 61777
+    },
+    {
+      "name": "substrate-4.2+1.21.1-neoforge.jar",
+      "path": "mods/substrate-4.2+1.21.1-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/substrate-4.2+1.21.1-neoforge.jar",
+      "hash": "126c5417e5755a27331b1aacf3fa3423",
+      "size": 81314
     },
     {
       "name": "superbwarfare-1.21.1-0.8.8-final-0cfd00d5.jar",
