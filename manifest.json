@@ -2941,11 +2941,11 @@
       "size": 1330403
     },
     {
-      "name": "entityculling-neoforge-1.9.5-mc1.21.1.jar",
-      "path": "mods/entityculling-neoforge-1.9.5-mc1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/entityculling-neoforge-1.9.5-mc1.21.1.jar",
-      "hash": "ef1da268d5562d65d85da5af3c290a03",
-      "size": 1564767
+      "name": "entityculling-neoforge-1.10.0-mc1.21.1.jar",
+      "path": "mods/entityculling-neoforge-1.10.0-mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/entityculling-neoforge-1.10.0-mc1.21.1.jar",
+      "hash": "eb1041ae2ca8d91d3878f1cc8b0d02bc",
+      "size": 1573130
     },
     {
       "name": "entity_model_features_1.21-neoforge-3.0.12.jar",
@@ -2969,10 +2969,10 @@
       "size": 746263
     },
     {
-      "name": "epic-knights-1.21.1-neoforge-10.10.jar",
-      "path": "mods/epic-knights-1.21.1-neoforge-10.10.jar",
-      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/epic-knights-1.21.1-neoforge-10.10.jar",
-      "hash": "fa7602fc89d28a8d8e5ac778ac3ba487",
+      "name": "epic-knights-1.21.1-neoforge-10.12.jar",
+      "path": "mods/epic-knights-1.21.1-neoforge-10.12.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/epic-knights-1.21.1-neoforge-10.12.jar",
+      "hash": "865c7c2a5ea3901c7f49499ff256e3e1",
       "size": 2606223
     },
     {
@@ -3114,6 +3114,13 @@
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/geckolib-neoforge-1.21.1-4.8.4.jar",
       "hash": "f68322025b603faaaaa5a1b3c52dc2ae",
       "size": 622582
+    },
+    {
+      "name": "getittogetherdrops-neoforge-1.21.5-1.4.jar",
+      "path": "mods/getittogetherdrops-neoforge-1.21.5-1.4.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/getittogetherdrops-neoforge-1.21.5-1.4.jar",
+      "hash": "c0259885d0d200894ce449fc95a1b63b",
+      "size": 8825
     },
     {
       "name": "gliders-1.21.1-neoforge-1.1.8.jar",
@@ -3683,6 +3690,13 @@
       "size": 217587
     },
     {
+      "name": "redirector-neoforge-1.21.1-1.0.0.jar",
+      "path": "mods/redirector-neoforge-1.21.1-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/redirector-neoforge-1.21.1-1.0.0.jar",
+      "hash": "8d883adc658b6732dcb9fbecf0c5cd27",
+      "size": 13760
+    },
+    {
       "name": "reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar",
       "path": "mods/reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar",
@@ -3711,11 +3725,11 @@
       "size": 484332
     },
     {
-      "name": "Resourcify (1.21.1-neoforge)-1.8.0.jar",
-      "path": "mods/Resourcify (1.21.1-neoforge)-1.8.0.jar",
-      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/Resourcify (1.21.1-neoforge)-1.8.0.jar",
-      "hash": "ad268857a7089870b6794ac4a834760a",
-      "size": 2579159
+      "name": "Resourcify (1.21.1-neoforge)-1.8.1.jar",
+      "path": "mods/Resourcify (1.21.1-neoforge)-1.8.1.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/Resourcify (1.21.1-neoforge)-1.8.1.jar",
+      "hash": "c587c47221a344d6ae7f1e2b38221d47",
+      "size": 2586268
     },
     {
       "name": "rhino-2101.2.7-build.81.jar",
@@ -3774,11 +3788,11 @@
       "size": 1391731
     },
     {
-      "name": "SimpleRPC-4.0.5.jar",
-      "path": "mods/SimpleRPC-4.0.5.jar",
-      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/SimpleRPC-4.0.5.jar",
-      "hash": "a50e60d4ff0297eef39f6e67f01d983c",
-      "size": 714159
+      "name": "SimpleRPC-4.1.0.jar",
+      "path": "mods/SimpleRPC-4.1.0.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/SimpleRPC-4.1.0.jar",
+      "hash": "06784ecb11b2bd84c2d88ca0bff5cd59",
+      "size": 714235
     },
     {
       "name": "skinlayers3d-neoforge-1.10.2-mc1.21.1.jar",
@@ -3956,11 +3970,11 @@
       "size": 6128519
     },
     {
-      "name": "travelersbackpack-neoforge-1.21.1-10.1.33.jar",
-      "path": "mods/travelersbackpack-neoforge-1.21.1-10.1.33.jar",
-      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/travelersbackpack-neoforge-1.21.1-10.1.33.jar",
-      "hash": "12f6751d288258cd1fc8b51aa8a1ecfa",
-      "size": 1328580
+      "name": "travelersbackpack-neoforge-1.21.1-10.1.34.jar",
+      "path": "mods/travelersbackpack-neoforge-1.21.1-10.1.34.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/travelersbackpack-neoforge-1.21.1-10.1.34.jar",
+      "hash": "4e99e272964f40a7c0c58253a9ab2368",
+      "size": 1352912
     },
     {
       "name": "tweakerge-0.4.1+mc1.21.1.jar",
@@ -4005,11 +4019,18 @@
       "size": 248085
     },
     {
-      "name": "Vampirism-1.21-1.10.9.jar",
-      "path": "mods/Vampirism-1.21-1.10.9.jar",
-      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/Vampirism-1.21-1.10.9.jar",
-      "hash": "00a0c2671dadf76938f5cfe64b56a2e2",
-      "size": 12438500
+      "name": "Vampirism-1.21-1.10.10.jar",
+      "path": "mods/Vampirism-1.21-1.10.10.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/Vampirism-1.21-1.10.10.jar",
+      "hash": "e479c684dc34bfdff115025e73748d96",
+      "size": 12441490
+    },
+    {
+      "name": "vanillin-neoforge-1.21.1-1.1.3.jar",
+      "path": "mods/vanillin-neoforge-1.21.1-1.1.3.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/vanillin-neoforge-1.21.1-1.1.3.jar",
+      "hash": "cd4a8b1d475a28608ea0f78a602b1340",
+      "size": 870344
     },
     {
       "name": "villager_warship-1.0.0-neoforge-1.21.1.jar",
