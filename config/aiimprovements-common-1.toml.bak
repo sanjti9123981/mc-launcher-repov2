@@ -1,0 +1,75 @@
+#Entity Settings — AI Improvements optimizado para Credipt SMP
+#Modpack con Born in Chaos, Vampirism, Epic Knights, Cataclysm
+
+[entity]
+
+	[entity.general]
+		allow_remove_calls = true
+		enable_call_bubbling = true
+
+	[entity.mob]
+
+		[entity.mob.remove_look_goal]
+			# No quitamos el look goal — mobs de mods lo necesitan para targeting
+			remove_look_goal = false
+			is_allowlist = false
+			filter_list = []
+
+		[entity.mob.remove_look_random]
+			# Quitamos el look random — no afecta gameplay, ahorra CPU
+			# Los mobs igual miran al objetivo cuando atacan
+			remove_look_random = true
+			is_allowlist = false
+			filter_list = []
+
+		[entity.mob.replace_look_controller]
+			# Look controller con math cacheado — mejora CPU con muchos mobs
+			replace_look_controller = true
+			is_allowlist = false
+			filter_list = []
+
+	[entity.fish]
+		remove_swim = false
+		remove_panic = false
+		remove_avoid_player = false
+		# Quitar follow leader — los peces igual nadan, solo no forman grupos
+		remove_follow_leader = true
+		remove_puff = false
+
+	[entity.squid]
+		remove_flee = false
+		# Quitar random move de calamares — casi invisible, ahorra ticks
+		remove_random_move = true
+
+	[entity.cow]
+		remove_float = false
+		remove_panic = false
+		remove_breed = false
+		remove_tempt = false
+		remove_follow_parent = false
+		remove_stroll = false
+
+	[entity.chicken]
+		remove_float = false
+		remove_panic = false
+		remove_breed = false
+		remove_tempt = false
+		remove_follow_parent = false
+		remove_stroll = false
+
+	[entity.pig]
+		remove_float = false
+		remove_panic = false
+		remove_breed = false
+		remove_tempt = false
+		remove_follow_parent = false
+		remove_stroll = false
+
+	[entity.sheep]
+		remove_float = false
+		remove_panic = false
+		remove_breed = false
+		remove_tempt = false
+		remove_follow_parent = false
+		remove_stroll = false
+		remove_eat_block = false

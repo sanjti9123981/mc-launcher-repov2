@@ -1,0 +1,26 @@
+general:
+  #The prefix of the mod.
+  #Minimum length: 0, Maximum length: 64, Default value: ''
+  prefix: ''
+  #The primary color of the mod.
+  #Minimum value: 0, Maximum value: 16777215, Default value: 2728944
+  primaryColor: 2728944
+commands:
+  weather:
+    #The time in ticks it will be sunny when using the /sun command.
+    #Minimum value: 0, Maximum value: 2147483647, Default value: 60000
+    sunnyTime: 60000
+    #The time in ticks it will be rainy when using the /rain command.
+    #Minimum value: 0, Maximum value: 2147483647, Default value: 6000
+    rainyTime: 6000
+    #The time in ticks it will be thunder when using the /thunder command.
+    #Minimum value: 0, Maximum value: 2147483647, Default value: 6000
+    thunderTime: 6000
+  homes:
+    #The maximum amount of homes a player can have.
+    #Minimum value: 0, Maximum value: 2147483647, Default value: 5
+    homesLimit: 5
+  tpa:
+    #The time in seconds a TPA request will be pending.
+    #Minimum value: 0, Maximum value: 2147483647, Default value: 60
+    tpaTimeout: 60

@@ -1,11 +1,809 @@
 {
   "files": [
     {
+      "name": "acceleratedrendering-client.toml",
+      "path": "config/acceleratedrendering-client.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/acceleratedrendering-client.toml",
+      "hash": "2ebd68bbcb03af1354f9c11d896b07b3",
+      "size": 26287
+    },
+    {
+      "name": "accessories.json5",
+      "path": "config/accessories.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/accessories.json5",
+      "hash": "c650b5f2c1efe0938cdf4f76eede88a0",
+      "size": 915
+    },
+    {
+      "name": "advancednetherite-client.toml",
+      "path": "config/advancednetherite-client.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/advancednetherite-client.toml",
+      "hash": "4d47b1fe318c36ecb5355dc37647ed7c",
+      "size": 436
+    },
+    {
+      "name": "advancednetherite-common.toml",
+      "path": "config/advancednetherite-common.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/advancednetherite-common.toml",
+      "hash": "bcb33a51c1c529d7f09f2274395084c4",
+      "size": 506
+    },
+    {
+      "name": "advancementplaques.toml",
+      "path": "config/advancementplaques.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/advancementplaques.toml",
+      "hash": "e931b1b03f143d5cff1040ffa8043b8f",
+      "size": 3284
+    },
+    {
+      "name": "aether_customizations.txt",
+      "path": "config/aether/aether_customizations.txt",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/aether/aether_customizations.txt",
+      "hash": "cbb7dadd96742517600bf029d14ce08f",
+      "size": 84
+    },
+    {
+      "name": "sun_altar_whitelist.json",
+      "path": "config/aether/sun_altar_whitelist.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/aether/sun_altar_whitelist.json",
+      "hash": "d751713988987e9331980363e24189ce",
+      "size": 2
+    },
+    {
+      "name": "aether-client.toml",
+      "path": "config/aether-client.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/aether-client.toml",
+      "hash": "bb89d5f2cba33e4f0aa42340d788b7a4",
+      "size": 3611
+    },
+    {
+      "name": "aether-common.toml",
+      "path": "config/aether-common.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/aether-common.toml",
+      "hash": "fa5aaef6cd7ce5d06ae05b6ded9507a0",
+      "size": 1402
+    },
+    {
+      "name": "aether-startup.toml",
+      "path": "config/aether-startup.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/aether-startup.toml",
+      "hash": "f9b640883af9ac0e0931e5f8df7a08da",
+      "size": 104
+    },
+    {
+      "name": "aiimprovements-common-1.toml.bak",
+      "path": "config/aiimprovements-common-1.toml.bak",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/aiimprovements-common-1.toml.bak",
+      "hash": "1def4b839532fdac4edc47e9fe074243",
+      "size": 1856
+    },
+    {
+      "name": "aiimprovements-common-2.toml.bak",
+      "path": "config/aiimprovements-common-2.toml.bak",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/aiimprovements-common-2.toml.bak",
+      "hash": "1def4b839532fdac4edc47e9fe074243",
+      "size": 1856
+    },
+    {
+      "name": "aiimprovements-common-3.toml.bak",
+      "path": "config/aiimprovements-common-3.toml.bak",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/aiimprovements-common-3.toml.bak",
+      "hash": "1def4b839532fdac4edc47e9fe074243",
+      "size": 1856
+    },
+    {
       "name": "aiimprovements-common.toml",
       "path": "config/aiimprovements-common.toml",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/aiimprovements-common.toml",
-      "hash": "1def4b839532fdac4edc47e9fe074243",
-      "size": 1856
+      "hash": "25e4a25e2ba1ec353bdc0b882cc3b9da",
+      "size": 6204
+    },
+    {
+      "name": "ajolocoin-common.toml",
+      "path": "config/ajolocoin-common.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/ajolocoin-common.toml",
+      "hash": "739e67e8d75d4f4e6052777f687e473b",
+      "size": 657
+    },
+    {
+      "name": "alltheleaks.json",
+      "path": "config/alltheleaks.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/alltheleaks.json",
+      "hash": "7b0347a81c24e4ddc5fb690749123529",
+      "size": 398
+    },
+    {
+      "name": "almanac-common.toml",
+      "path": "config/almanac-common.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/almanac-common.toml",
+      "hash": "8ba5eb34494f07cc500b44874bdcc7e8",
+      "size": 575
+    },
+    {
+      "name": "appleskin-client.toml",
+      "path": "config/appleskin-client.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/appleskin-client.toml",
+      "hash": "94c0854d749d20069783913cf035ca31",
+      "size": 1376
+    },
+    {
+      "name": "asynclocator.toml",
+      "path": "config/asynclocator.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/asynclocator.toml",
+      "hash": "377d1d6f15c1d36c267225ba2c1f4647",
+      "size": 1128
+    },
+    {
+      "name": "awesomedungeonocean_1.properties",
+      "path": "config/awesomedungeonocean_1.properties",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/awesomedungeonocean_1.properties",
+      "hash": "966a8164e3d8cc99117f0aa4efcec6b7",
+      "size": 1571
+    },
+    {
+      "name": "badoptimizations.txt",
+      "path": "config/badoptimizations.txt",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/badoptimizations.txt",
+      "hash": "7714652525dd4a0c873ddfc124aac217",
+      "size": 3458
+    },
+    {
+      "name": "betterchunkloading.json",
+      "path": "config/betterchunkloading.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/betterchunkloading.json",
+      "hash": "faa09474eac3c491d98fa85d9510f4e5",
+      "size": 2049
+    },
+    {
+      "name": "common.json",
+      "path": "config/better_lib/common.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/better_lib/common.json",
+      "hash": "502dc6cf6ae45780c06ac7580db5985e",
+      "size": 6439
+    },
+    {
+      "name": "carbonconfig.cfg",
+      "path": "config/carbonconfig.cfg",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/carbonconfig.cfg",
+      "hash": "3ccb2eb798b8e808ae65726d8cd6955c",
+      "size": 1601
+    },
+    {
+      "name": "cataclysm-client.toml",
+      "path": "config/cataclysm-client.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cataclysm-client.toml",
+      "hash": "b5b23ed2c260decf43fe964573cbb208",
+      "size": 477
+    },
+    {
+      "name": "cataclysm-common.toml",
+      "path": "config/cataclysm-common.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cataclysm-common.toml",
+      "hash": "38316ea692a53932e0b2454fbc087009",
+      "size": 30666
+    },
+    {
+      "name": "chatanimation.json",
+      "path": "config/chatanimation.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/chatanimation.json",
+      "hash": "becdb77b7a63beeaaf7b194c501ea626",
+      "size": 160
+    },
+    {
+      "name": "chat_heads.json5",
+      "path": "config/chat_heads.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/chat_heads.json5",
+      "hash": "582cc3f28157f02c5504e49bc7e4a9f2",
+      "size": 229
+    },
+    {
+      "name": "chunksending.json",
+      "path": "config/chunksending.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/chunksending.json",
+      "hash": "d0e7c00107d9b14b5f465a0a7a7e0d80",
+      "size": 301
+    },
+    {
+      "name": "collective.json5",
+      "path": "config/collective.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/collective.json5",
+      "hash": "c1a6c344217a2164ca0db41f9d286d00",
+      "size": 827
+    },
+    {
+      "name": "connectivity.json",
+      "path": "config/connectivity.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/connectivity.json",
+      "hash": "369a34ad4dbd6b23513fcbc22eb812f5",
+      "size": 1763
+    },
+    {
+      "name": "copycats-client.toml",
+      "path": "config/copycats-client.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/copycats-client.toml",
+      "hash": "7acb10458e9f27041f1f48c8c13ff868",
+      "size": 340
+    },
+    {
+      "name": "copycats-common.toml",
+      "path": "config/copycats-common.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/copycats-common.toml",
+      "hash": "45f56b2190977024714b931827dc58d6",
+      "size": 2165
+    },
+    {
+      "name": "General.toml",
+      "path": "config/CoroUtil/General.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/CoroUtil/General.toml",
+      "hash": "e89054829f589efab442167898ecfd29",
+      "size": 129
+    },
+    {
+      "name": "cpm.json",
+      "path": "config/cpm.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cpm.json",
+      "hash": "87c6884f2f3feb4ca8f02edf7e544333",
+      "size": 66
+    },
+    {
+      "name": "create-client.toml",
+      "path": "config/create-client.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/create-client.toml",
+      "hash": "a08c684272438ebfbfb11e90a59d4876",
+      "size": 4701
+    },
+    {
+      "name": "create-common.toml",
+      "path": "config/create-common.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/create-common.toml",
+      "hash": "9dabf53d32493d67b0d8985fb72ad083",
+      "size": 153
+    },
+    {
+      "name": "createaddition-common.toml",
+      "path": "config/createaddition-common.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/createaddition-common.toml",
+      "hash": "59a55cdbc6e244df2fb481d73eb58ff9",
+      "size": 5285
+    },
+    {
+      "name": "createbigcannons-client.toml",
+      "path": "config/createbigcannons-client.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/createbigcannons-client.toml",
+      "hash": "1aabddbea91a93858dbf0bdb46dc2a92",
+      "size": 3717
+    },
+    {
+      "name": "createcobblestone-common.toml",
+      "path": "config/createcobblestone-common.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/createcobblestone-common.toml",
+      "hash": "935265f6127cfe70a5f01a4aa097dbb4",
+      "size": 2034
+    },
+    {
+      "name": "createdieselgenerators-client.toml",
+      "path": "config/createdieselgenerators-client.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/createdieselgenerators-client.toml",
+      "hash": "b22fb409adca86271420c2ab4fb5a1b8",
+      "size": 243
+    },
+    {
+      "name": "createdieselgenerators-common.toml",
+      "path": "config/createdieselgenerators-common.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/createdieselgenerators-common.toml",
+      "hash": "395ac1789cf62ac53317eee412422c37",
+      "size": 407
+    },
+    {
+      "name": "create_connected-common.toml",
+      "path": "config/create_connected-common.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/create_connected-common.toml",
+      "hash": "61a188ef52c5e9dd050f0744ac40a7fa",
+      "size": 1713
+    },
+    {
+      "name": "create_dragons_plus-client.toml",
+      "path": "config/create_dragons_plus-client.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/create_dragons_plus-client.toml",
+      "hash": "6b8fbe36f26b016cc951f65ec5874b8f",
+      "size": 302
+    },
+    {
+      "name": "create_dragons_plus-common.toml",
+      "path": "config/create_dragons_plus-common.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/create_dragons_plus-common.toml",
+      "hash": "9f1ac7ba10672d777f2b6e44f2f2929c",
+      "size": 1454
+    },
+    {
+      "name": "create_enchantment_industry-client.toml",
+      "path": "config/create_enchantment_industry-client.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/create_enchantment_industry-client.toml",
+      "hash": "3efa450d7f86b5804b2d90d311487e78",
+      "size": 155
+    },
+    {
+      "name": "create_jetpack-client.toml",
+      "path": "config/create_jetpack-client.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/create_jetpack-client.toml",
+      "hash": "a2445f2df986a3ff61699e49384bbab7",
+      "size": 334
+    },
+    {
+      "name": "create_jetpack-common.toml",
+      "path": "config/create_jetpack-common.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/create_jetpack-common.toml",
+      "hash": "95701dbf772b750d51a958903cef1d7c",
+      "size": 578
+    },
+    {
+      "name": "creativecore-client.json",
+      "path": "config/creativecore-client.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/creativecore-client.json",
+      "hash": "235bb114cb2741da4a4dd79c3f559c15",
+      "size": 23
+    },
+    {
+      "name": "creeperoverhaul.jsonc",
+      "path": "config/creeperoverhaul.jsonc",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/creeperoverhaul.jsonc",
+      "hash": "61d051fff7b4e873a6b1065f596e744c",
+      "size": 1913
+    },
+    {
+      "name": "crepperoverhaul-client.jsonc",
+      "path": "config/crepperoverhaul-client.jsonc",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/crepperoverhaul-client.jsonc",
+      "hash": "9395984d47634716dd0888f2ae5662a4",
+      "size": 389
+    },
+    {
+      "name": "structure_placement_config.json5",
+      "path": "config/cristellib/aether/structure_placement_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/aether/structure_placement_config.json5",
+      "hash": "c6f689b39c21df3800bd5baa2dc87633",
+      "size": 295
+    },
+    {
+      "name": "structure_toggle_config.json5",
+      "path": "config/cristellib/aether/structure_toggle_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/aether/structure_toggle_config.json5",
+      "hash": "ed79fce57568840add512994af60e28d",
+      "size": 231
+    },
+    {
+      "name": "auto_config_settings.json5",
+      "path": "config/cristellib/auto_config_settings.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/auto_config_settings.json5",
+      "hash": "aa54d6d3b89813d75245fef9f3d2ce81",
+      "size": 895
+    },
+    {
+      "name": "structure_toggle_config.json5",
+      "path": "config/cristellib/awesomedungeonocean/structure_toggle_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/awesomedungeonocean/structure_toggle_config.json5",
+      "hash": "a49518d5a97b288045fc79f6b1044ec8",
+      "size": 583
+    },
+    {
+      "name": "structure_placement_config.json5",
+      "path": "config/cristellib/born_in_chaos_v1/structure_placement_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/born_in_chaos_v1/structure_placement_config.json5",
+      "hash": "90c21bb0186b7ee50f4c53e81af49766",
+      "size": 2648
+    },
+    {
+      "name": "structure_toggle_config.json5",
+      "path": "config/cristellib/born_in_chaos_v1/structure_toggle_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/born_in_chaos_v1/structure_toggle_config.json5",
+      "hash": "2018bd0029d369c53078df7f90e3f536",
+      "size": 1697
+    },
+    {
+      "name": "built_in_packs.json5",
+      "path": "config/cristellib/built_in_packs.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/built_in_packs.json5",
+      "hash": "3676bf100666a582b4d62c5c83be9f6c",
+      "size": 419
+    },
+    {
+      "name": "structure_placement_config.json5",
+      "path": "config/cristellib/cataclysm/structure_placement_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/cataclysm/structure_placement_config.json5",
+      "hash": "f8ab697060256138cb3ec4925d4b19b5",
+      "size": 953
+    },
+    {
+      "name": "structure_toggle_config.json5",
+      "path": "config/cristellib/cataclysm/structure_toggle_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/cataclysm/structure_toggle_config.json5",
+      "hash": "81fb54933204230143d15ddeb203e903",
+      "size": 707
+    },
+    {
+      "name": "structure_placement_config.json5",
+      "path": "config/cristellib/create_rustic_structures/structure_placement_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/create_rustic_structures/structure_placement_config.json5",
+      "hash": "95d747ef39129becfd8d8039a69b9ebc",
+      "size": 371
+    },
+    {
+      "name": "structure_toggle_config.json5",
+      "path": "config/cristellib/create_rustic_structures/structure_toggle_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/create_rustic_structures/structure_toggle_config.json5",
+      "hash": "b7c4a31b55fd6d2f21861fd42c78a163",
+      "size": 235
+    },
+    {
+      "name": "structure_placement_config.json5",
+      "path": "config/cristellib/darkerdepths/structure_placement_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/darkerdepths/structure_placement_config.json5",
+      "hash": "d3b61578530cfc44a50316260ba58a62",
+      "size": 295
+    },
+    {
+      "name": "structure_toggle_config.json5",
+      "path": "config/cristellib/darkerdepths/structure_toggle_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/darkerdepths/structure_toggle_config.json5",
+      "hash": "1ae7ff50c5ac70bf2b30971fa5312166",
+      "size": 199
+    },
+    {
+      "name": "structure_placement_config.json5",
+      "path": "config/cristellib/deeperdarker/structure_placement_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/deeperdarker/structure_placement_config.json5",
+      "hash": "61cb3cf33f0cb0cfe5ce0357043b30ad",
+      "size": 128
+    },
+    {
+      "name": "structure_toggle_config.json5",
+      "path": "config/cristellib/deeperdarker/structure_toggle_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/deeperdarker/structure_toggle_config.json5",
+      "hash": "a26571fb21ec7122cdfbb70cf865201b",
+      "size": 98
+    },
+    {
+      "name": "structure_placement_config.json5",
+      "path": "config/cristellib/explorify/structure_placement_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/explorify/structure_placement_config.json5",
+      "hash": "4ea6b3bd5f4c618c0c7e71f6e102a70a",
+      "size": 1382
+    },
+    {
+      "name": "structure_toggle_config.json5",
+      "path": "config/cristellib/explorify/structure_toggle_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/explorify/structure_toggle_config.json5",
+      "hash": "944ba94180f177e05442016578f22f78",
+      "size": 902
+    },
+    {
+      "name": "structure_placement_config.json5",
+      "path": "config/cristellib/fdbosses/structure_placement_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/fdbosses/structure_placement_config.json5",
+      "hash": "b7e37d6f9d7602be217e685b0e41d014",
+      "size": 287
+    },
+    {
+      "name": "structure_toggle_config.json5",
+      "path": "config/cristellib/fdbosses/structure_toggle_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/fdbosses/structure_toggle_config.json5",
+      "hash": "11afb1fa39e5060c19c3a5f162717843",
+      "size": 189
+    },
+    {
+      "name": "structure_placement_config.json5",
+      "path": "config/cristellib/friendsandfoes/structure_placement_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/friendsandfoes/structure_placement_config.json5",
+      "hash": "810675726eaa09e9bdc07882c58d7883",
+      "size": 383
+    },
+    {
+      "name": "structure_toggle_config.json5",
+      "path": "config/cristellib/friendsandfoes/structure_toggle_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/friendsandfoes/structure_toggle_config.json5",
+      "hash": "cca760f28f6b3f1927c6e11eeeae3e8a",
+      "size": 265
+    },
+    {
+      "name": "structure_placement_config.json5",
+      "path": "config/cristellib/incendium/structure_placement_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/incendium/structure_placement_config.json5",
+      "hash": "6efcb3d1a78e4f45369a49bb32dfc0e4",
+      "size": 303
+    },
+    {
+      "name": "structure_toggle_config.json5",
+      "path": "config/cristellib/incendium/structure_toggle_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/incendium/structure_toggle_config.json5",
+      "hash": "063d0e19225ecc9d4468e5bd7b9e9fa8",
+      "size": 425
+    },
+    {
+      "name": "structure_toggle_config.json5",
+      "path": "config/cristellib/mes/structure_toggle_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/mes/structure_toggle_config.json5",
+      "hash": "74810c0f5d382b23c51a12e40c4af963",
+      "size": 1371
+    },
+    {
+      "name": "structure_toggle_config.json5",
+      "path": "config/cristellib/mns/structure_toggle_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/mns/structure_toggle_config.json5",
+      "hash": "cc161f3ad5b8bc04b73f3b2898dcf550",
+      "size": 2537
+    },
+    {
+      "name": "structure_placement_config.json5",
+      "path": "config/cristellib/mr_dungeons_andtaverns/structure_placement_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/mr_dungeons_andtaverns/structure_placement_config.json5",
+      "hash": "c79a7a685a03e2bcb39d3102426683df",
+      "size": 2703
+    },
+    {
+      "name": "structure_toggle_config.json5",
+      "path": "config/cristellib/mr_dungeons_andtaverns/structure_toggle_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/mr_dungeons_andtaverns/structure_toggle_config.json5",
+      "hash": "a48b91ae8ae1252aec4226dfcbb65f80",
+      "size": 3679
+    },
+    {
+      "name": "structure_toggle_config.json5",
+      "path": "config/cristellib/mvs/structure_toggle_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/mvs/structure_toggle_config.json5",
+      "hash": "fa2e410334ff81c85bc135e9ea1fab31",
+      "size": 5753
+    },
+    {
+      "name": "structure_placement_config.json5",
+      "path": "config/cristellib/oeuvre/structure_placement_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/oeuvre/structure_placement_config.json5",
+      "hash": "1d34fa4cc24ce45b06ae0f5566d47252",
+      "size": 130
+    },
+    {
+      "name": "structure_toggle_config.json5",
+      "path": "config/cristellib/oeuvre/structure_toggle_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/oeuvre/structure_toggle_config.json5",
+      "hash": "080dd110b5aea46542fdbe375d1106bc",
+      "size": 103
+    },
+    {
+      "name": "structure_placement_config.json5",
+      "path": "config/cristellib/structory/structure_placement_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/structory/structure_placement_config.json5",
+      "hash": "60d30ccc372143950e62a8a890966e28",
+      "size": 446
+    },
+    {
+      "name": "structure_toggle_config.json5",
+      "path": "config/cristellib/structory/structure_toggle_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/structory/structure_toggle_config.json5",
+      "hash": "d72485fc543a022d06e62451dabcc751",
+      "size": 538
+    },
+    {
+      "name": "structure_placement_config.json5",
+      "path": "config/cristellib/teamlapenlib/structure_placement_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/teamlapenlib/structure_placement_config.json5",
+      "hash": "d9eae63da148eb489be557f9fe69346e",
+      "size": 513
+    },
+    {
+      "name": "structure_toggle_config.json5",
+      "path": "config/cristellib/teamlapenlib/structure_toggle_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/teamlapenlib/structure_toggle_config.json5",
+      "hash": "982dd20b000945914ce6c724f446c15e",
+      "size": 415
+    },
+    {
+      "name": "structure_toggle_config.json5",
+      "path": "config/cristellib/the_bumblezone/structure_toggle_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/the_bumblezone/structure_toggle_config.json5",
+      "hash": "525f306f2316f023d3d3d8673da78983",
+      "size": 1227
+    },
+    {
+      "name": "structure_placement_config.json5",
+      "path": "config/cristellib/tombstone/structure_placement_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/tombstone/structure_placement_config.json5",
+      "hash": "dcaca4f7a640c54262f0abec2eaccf1e",
+      "size": 128
+    },
+    {
+      "name": "structure_toggle_config.json5",
+      "path": "config/cristellib/tombstone/structure_toggle_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/tombstone/structure_toggle_config.json5",
+      "hash": "5a3056d164777e3b680490e06494193f",
+      "size": 137
+    },
+    {
+      "name": "structure_placement_config.json5",
+      "path": "config/cristellib/underground_villages/structure_placement_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/underground_villages/structure_placement_config.json5",
+      "hash": "93afd3b5d0245d86a5c68fbc0aa0b6f9",
+      "size": 133
+    },
+    {
+      "name": "structure_toggle_config.json5",
+      "path": "config/cristellib/underground_villages/structure_toggle_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/underground_villages/structure_toggle_config.json5",
+      "hash": "e41f94f49edd33c8314166807b449c5b",
+      "size": 108
+    },
+    {
+      "name": "structure_placement_config.json5",
+      "path": "config/cristellib/vampirism/structure_placement_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/vampirism/structure_placement_config.json5",
+      "hash": "d9eae63da148eb489be557f9fe69346e",
+      "size": 513
+    },
+    {
+      "name": "structure_toggle_config.json5",
+      "path": "config/cristellib/vampirism/structure_toggle_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/vampirism/structure_toggle_config.json5",
+      "hash": "982dd20b000945914ce6c724f446c15e",
+      "size": 415
+    },
+    {
+      "name": "structure_placement_config.json5",
+      "path": "config/cristellib/villager_warship/structure_placement_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/villager_warship/structure_placement_config.json5",
+      "hash": "7df6767c9cb1d3b97b649a3b05b1dd66",
+      "size": 132
+    },
+    {
+      "name": "structure_toggle_config.json5",
+      "path": "config/cristellib/villager_warship/structure_toggle_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cristellib/villager_warship/structure_toggle_config.json5",
+      "hash": "b456f4345b18aa65f458e5a5c801381d",
+      "size": 101
+    },
+    {
+      "name": "cumulus_menus-client.toml",
+      "path": "config/cumulus_menus-client.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cumulus_menus-client.toml",
+      "hash": "45b98459bbd0bd5b646e6bb07ac4a769",
+      "size": 749
+    },
+    {
+      "name": "cupboard.json",
+      "path": "config/cupboard.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/cupboard.json",
+      "hash": "78b28ef5ad74a283f4d7e9fe5d53ed31",
+      "size": 1304
+    },
+    {
+      "name": "curios-client.toml",
+      "path": "config/curios-client.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/curios-client.toml",
+      "hash": "ee14fd895a3051e9e1f676bcab855d93",
+      "size": 766
+    },
+    {
+      "name": "curios-common.toml",
+      "path": "config/curios-common.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/curios-common.toml",
+      "hash": "0addc1c3c75406e6ed98709885d58d7c",
+      "size": 159
+    },
+    {
+      "name": "CustomNpcs.cfg",
+      "path": "config/CustomNpcs.cfg",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/CustomNpcs.cfg",
+      "hash": "7bd2e84bba067aaec6d3318d85912a2e",
+      "size": 1683
+    },
+    {
+      "name": "darkerdepths-common.toml",
+      "path": "config/darkerdepths-common.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/darkerdepths-common.toml",
+      "hash": "f62f0dbbb9c8e093a8fc1226a925dd2d",
+      "size": 804
+    },
+    {
+      "name": "deeperdarker-common.toml",
+      "path": "config/deeperdarker-common.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/deeperdarker-common.toml",
+      "hash": "045ac2ab78f7c66505f4b60e22073998",
+      "size": 854
+    },
+    {
+      "name": "dimthread-common.toml",
+      "path": "config/dimthread-common.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/dimthread-common.toml",
+      "hash": "b256059e3d396097c0b0de4ae390bd4e",
+      "size": 847
+    },
+    {
+      "name": "disenchanting_table-client.toml",
+      "path": "config/disenchanting_table-client.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/disenchanting_table-client.toml",
+      "hash": "8327f160e1ed1c0c1fd9613ef7eadc9e",
+      "size": 380
+    },
+    {
+      "name": "dndesires-client.toml",
+      "path": "config/dndesires-client.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/dndesires-client.toml",
+      "hash": "9e12ba5d1115199a0e2fb17a16954ff6",
+      "size": 1156
+    },
+    {
+      "name": "doespotatotick-client.toml",
+      "path": "config/doespotatotick-client.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/doespotatotick-client.toml",
+      "hash": "117cd895bd4378588094cb5173996192",
+      "size": 450
+    },
+    {
+      "name": "doespotatotick-common.toml",
+      "path": "config/doespotatotick-common.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/doespotatotick-common.toml",
+      "hash": "1607dff7f36e2c629c8a5325f7530383",
+      "size": 5369
+    },
+    {
+      "name": "dragonlib-common.toml",
+      "path": "config/dragonlib-common.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/dragonlib-common.toml",
+      "hash": "7e2f00e153af23c1392fa3b13fe0b03a",
+      "size": 1230
+    },
+    {
+      "name": "dramaticdoors-startup.toml",
+      "path": "config/dramaticdoors-startup.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/dramaticdoors-startup.toml",
+      "hash": "984f6f1a3052a12f0fc71de9a45c2535",
+      "size": 609
+    },
+    {
+      "name": "durabilitytooltip-common.toml",
+      "path": "config/durabilitytooltip-common.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/durabilitytooltip-common.toml",
+      "hash": "0bc5002f45ec854174785cc2f6981ddd",
+      "size": 1645
+    },
+    {
+      "name": "endermanoverhaul-client.jsonc",
+      "path": "config/endermanoverhaul-client.jsonc",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/endermanoverhaul-client.jsonc",
+      "hash": "abb8550948be0da50fb603ff62213f3f",
+      "size": 473
+    },
+    {
+      "name": "endermanoverhaul.jsonc",
+      "path": "config/endermanoverhaul.jsonc",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/endermanoverhaul.jsonc",
+      "hash": "52fd7b4407c70e381fcd1b3fb701fe24",
+      "size": 1050
+    },
+    {
+      "name": "entityculling.json",
+      "path": "config/entityculling.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/entityculling.json",
+      "hash": "422b1718498a957ece2de2453634102a",
+      "size": 1897
+    },
+    {
+      "name": "entity_model_features.json",
+      "path": "config/entity_model_features.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/entity_model_features.json",
+      "hash": "f7b8fd21f1c23747b7b21b1518bca964",
+      "size": 1109
+    },
+    {
+      "name": "entity_texture_features.json",
+      "path": "config/entity_texture_features.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/entity_texture_features.json",
+      "hash": "0c487b43d5f6178f8888d0337c72ecf8",
+      "size": 1421
+    },
+    {
+      "name": "etf_warnings.json",
+      "path": "config/etf_warnings.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/etf_warnings.json",
+      "hash": "b49b5603d2df29fa132f89ec91974572",
+      "size": 28
     },
     {
       "name": "b53ef99d78350015d542503cab55014618131de7.png",
@@ -162,18 +960,1047 @@
       "size": 23
     },
     {
+      "name": "farmersdelight-client.toml",
+      "path": "config/farmersdelight-client.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/farmersdelight-client.toml",
+      "hash": "b64debae81add85acd1278dc9778fa14",
+      "size": 365
+    },
+    {
+      "name": "farmersdelight-common.toml",
+      "path": "config/farmersdelight-common.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/farmersdelight-common.toml",
+      "hash": "8a898a33af8262ace02519f068408a10",
+      "size": 4713
+    },
+    {
+      "name": "fastbench.cfg",
+      "path": "config/fastbench.cfg",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/fastbench.cfg",
+      "hash": "7293fdf19353f45413beee8d18ecd33f",
+      "size": 541
+    },
+    {
+      "name": "fastpaintings-common.toml",
+      "path": "config/fastpaintings-common.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/fastpaintings-common.toml",
+      "hash": "f0cebef7579bbf0c019689d7ffa714bc",
+      "size": 129
+    },
+    {
+      "name": "fastsuite.cfg",
+      "path": "config/fastsuite.cfg",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/fastsuite.cfg",
+      "hash": "12608768c3b5368c23c88ab2b8b0d6cd",
+      "size": 918
+    },
+    {
       "name": "ferritecore-mixin.toml",
       "path": "config/ferritecore-mixin.toml",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/ferritecore-mixin.toml",
-      "hash": "fdf2bd4661cb39778a6c05147e22ab8d",
-      "size": 1307
+      "hash": "85c344b9d30d7eb169cff639a0f3e689",
+      "size": 1602
+    },
+    {
+      "name": "flerovium.json",
+      "path": "config/flerovium.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/flerovium.json",
+      "hash": "56df536d8d477432cf228c6138b2953e",
+      "size": 137
+    },
+    {
+      "name": "flywheel-client.toml",
+      "path": "config/flywheel-client.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/flywheel-client.toml",
+      "hash": "29f0bcd6a33233b592aae6949ddae3b2",
+      "size": 637
+    },
+    {
+      "name": "fml.toml",
+      "path": "config/fml.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/fml.toml",
+      "hash": "3d0cce41186aad6ad124a167b88caa18",
+      "size": 1551
+    },
+    {
+      "name": "friendsandfoes.json",
+      "path": "config/friendsandfoes.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/friendsandfoes.json",
+      "hash": "6e9962284e677ff1fb15dad99b5c0a4e",
+      "size": 2309
+    },
+    {
+      "name": "highlighter.toml",
+      "path": "config/highlighter.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/highlighter.toml",
+      "hash": "ff8b9bd6b946c3d3158f21ee5010ab08",
+      "size": 716
+    },
+    {
+      "name": "immediatelyfast.json",
+      "path": "config/immediatelyfast.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/immediatelyfast.json",
+      "hash": "8c5364d78b0f6f9c1461f88ca38e8d84",
+      "size": 1114
+    },
+    {
+      "name": "immersiveui.yaml",
+      "path": "config/immersiveui.yaml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/immersiveui.yaml",
+      "hash": "38291f5c2e2e3761f811630a7694eebb",
+      "size": 1451
+    },
+    {
+      "name": "immersive_aircraft.json",
+      "path": "config/immersive_aircraft.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/immersive_aircraft.json",
+      "hash": "58a1f702f379d5a9a2f9a0173b4c2234",
+      "size": 1518
+    },
+    {
+      "name": "immersive_armors.json",
+      "path": "config/immersive_armors.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/immersive_armors.json",
+      "hash": "810482082450419dc6da6f4790db6d82",
+      "size": 435
+    },
+    {
+      "name": "immersive_melodies.json",
+      "path": "config/immersive_melodies.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/immersive_melodies.json",
+      "hash": "fa1973fa99f8e190ca5ac9ee3c2e1f4f",
+      "size": 994
+    },
+    {
+      "name": "inventoryhud-client.toml",
+      "path": "config/inventoryhud-client.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/inventoryhud-client.toml",
+      "hash": "05e3fd027c2374133aebe53a0d7325dd",
+      "size": 5991
+    },
+    {
+      "name": "iris-excluded.json",
+      "path": "config/iris-excluded.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/iris-excluded.json",
+      "hash": "670592b1394f12ab96d8432f14ac8dd9",
+      "size": 31
+    },
+    {
+      "name": "iris.properties",
+      "path": "config/iris.properties",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/iris.properties",
+      "hash": "d3e9474d603b1289f7440857309d6712",
+      "size": 280
+    },
+    {
+      "name": "hide-blocks.json",
+      "path": "config/jade/hide-blocks.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/jade/hide-blocks.json",
+      "hash": "83c9f405ab4ae1427f76ab4a30a16644",
+      "size": 149
+    },
+    {
+      "name": "hide-entities.json",
+      "path": "config/jade/hide-entities.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/jade/hide-entities.json",
+      "hash": "a52182a33844468228bdbc58dbe5a73a",
+      "size": 243
+    },
+    {
+      "name": "jade.json",
+      "path": "config/jade/jade.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/jade/jade.json",
+      "hash": "ad37277172d44ee4f0b17d486850c163",
+      "size": 1089
+    },
+    {
+      "name": "plugins.json",
+      "path": "config/jade/plugins.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/jade/plugins.json",
+      "hash": "027dd8aa9c5d4a1510a27870adf7a4e3",
+      "size": 2537
+    },
+    {
+      "name": "sort-order.json",
+      "path": "config/jade/sort-order.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/jade/sort-order.json",
+      "hash": "cfb5cbf6edb7b9f41ff01ffd66665f94",
+      "size": 2495
+    },
+    {
+      "name": "known_suspicious_jars.txt",
+      "path": "config/jamlib/known_suspicious_jars.txt",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/jamlib/known_suspicious_jars.txt",
+      "hash": "d41d8cd98f00b204e9800998ecf8427e",
+      "size": 0
+    },
+    {
+      "name": "blacklist.json",
+      "path": "config/jei/blacklist.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/jei/blacklist.json",
+      "hash": "78f1a39821342258f73e542d9ea40e0f",
+      "size": 19
+    },
+    {
+      "name": "ingredient-list-mod-sort-order.ini",
+      "path": "config/jei/ingredient-list-mod-sort-order.ini",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/jei/ingredient-list-mod-sort-order.ini",
+      "hash": "601d77e54171b9de5bd022a41edb72f3",
+      "size": 1201
+    },
+    {
+      "name": "ingredient-list-type-sort-order.ini",
+      "path": "config/jei/ingredient-list-type-sort-order.ini",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/jei/ingredient-list-type-sort-order.ini",
+      "hash": "0328cc64f29f41e751136fade109eaff",
+      "size": 78
+    },
+    {
+      "name": "jei-client.ini",
+      "path": "config/jei/jei-client.ini",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/jei/jei-client.ini",
+      "hash": "3c2b98ed32b0da6cc762a2bfb926968e",
+      "size": 10760
+    },
+    {
+      "name": "jei-colors.ini",
+      "path": "config/jei/jei-colors.ini",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/jei/jei-colors.ini",
+      "hash": "2b1d073ff360c11353f0079b7539cb2e",
+      "size": 1362
+    },
+    {
+      "name": "jei-debug.ini",
+      "path": "config/jei/jei-debug.ini",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/jei/jei-debug.ini",
+      "hash": "3c1fbda820486d200de6645d6b4dfa08",
+      "size": 1430
+    },
+    {
+      "name": "jei-mod-id-format.ini",
+      "path": "config/jei/jei-mod-id-format.ini",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/jei/jei-mod-id-format.ini",
+      "hash": "1f48f1ee6a22052b1966e6d48de178cd",
+      "size": 557
+    },
+    {
+      "name": "recipe-category-sort-order.ini",
+      "path": "config/jei/recipe-category-sort-order.ini",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/jei/recipe-category-sort-order.ini",
+      "hash": "036524ee957bb0dc56a0203ed819a96e",
+      "size": 3147
+    },
+    {
+      "name": "jei_integration_reborn-client.toml",
+      "path": "config/jei_integration_reborn-client.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/jei_integration_reborn-client.toml",
+      "hash": "724572df9183e44218957f7135fc23c4",
+      "size": 921
+    },
+    {
+      "name": "config.txt",
+      "path": "config/justzoom/config.txt",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/justzoom/config.txt",
+      "hash": "9870d9afbe93cb329c8daa34e50d078d",
+      "size": 474
+    },
+    {
+      "name": "de_de.local",
+      "path": "config/konkrete/locals/de_de.local",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/konkrete/locals/de_de.local",
+      "hash": "3aac3df2519057d2305f894c37771e30",
+      "size": 369
+    },
+    {
+      "name": "en_us.local",
+      "path": "config/konkrete/locals/en_us.local",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/konkrete/locals/en_us.local",
+      "hash": "56c7ccaa193ba73c0d5c50aff28bb807",
+      "size": 426
+    },
+    {
+      "name": "pl_pl.local",
+      "path": "config/konkrete/locals/pl_pl.local",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/konkrete/locals/pl_pl.local",
+      "hash": "c1f5aa5c2d2ac414f75f0ec3cab3b9c8",
+      "size": 313
+    },
+    {
+      "name": "pt_br.local",
+      "path": "config/konkrete/locals/pt_br.local",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/konkrete/locals/pt_br.local",
+      "hash": "2d055da094c115b94f0e4373a2e06ebe",
+      "size": 322
+    },
+    {
+      "name": "leaky.json",
+      "path": "config/leaky.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/leaky.json",
+      "hash": "c9e8597905daa9ed02b0651f0e9b5ea3",
+      "size": 1132
+    },
+    {
+      "name": "legendarytooltips.toml",
+      "path": "config/legendarytooltips.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/legendarytooltips.toml",
+      "hash": "b3e71b2811045b2c6e290985074036b3",
+      "size": 9333
+    },
+    {
+      "name": "libraryferret_1.properties",
+      "path": "config/libraryferret_1.properties",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/libraryferret_1.properties",
+      "hash": "f84ad6dbbe14a9b9a19e7969983ad933",
+      "size": 193
+    },
+    {
+      "name": "limitedchunks.json",
+      "path": "config/limitedchunks.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/limitedchunks.json",
+      "hash": "09f02f8cc6eef8c19961bcd4609cb295",
+      "size": 498
+    },
+    {
+      "name": "litematica_credipt.minecraft.best.json",
+      "path": "config/litematica/litematica_credipt.minecraft.best.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/litematica/litematica_credipt.minecraft.best.json",
+      "hash": "909c5fc6e45a9192364c7e32ee776ae1",
+      "size": 95
+    },
+    {
+      "name": "litematica_credipt.minecraft.best_dim_minecraft_overworld.json",
+      "path": "config/litematica/litematica_credipt.minecraft.best_dim_minecraft_overworld.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/litematica/litematica_credipt.minecraft.best_dim_minecraft_overworld.json",
+      "hash": "79d27ab8e9848160cc1684637aaabe35",
+      "size": 758
+    },
+    {
+      "name": "litematica.json",
+      "path": "config/litematica.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/litematica.json",
+      "hash": "83f416e35c508b58c6adf2a87967b750",
+      "size": 10250
+    },
+    {
+      "name": "lithium.properties",
+      "path": "config/lithium.properties",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/lithium.properties",
+      "hash": "65a61a8f2201e0a571d48a7f0295da19",
+      "size": 267
+    },
+    {
+      "name": "loadmychunks.json5",
+      "path": "config/loadmychunks.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/loadmychunks.json5",
+      "hash": "bacfbeff918c181faf78859265281399",
+      "size": 4143
+    },
+    {
+      "name": "loadsupport.toml",
+      "path": "config/loadsupport.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/loadsupport.toml",
+      "hash": "45659e88892b15fda47e66ac6815eae4",
+      "size": 413
+    },
+    {
+      "name": "logbegone.json",
+      "path": "config/logbegone.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/logbegone.json",
+      "hash": "8fff7eab9941bc7d8cc33d7681deacf9",
+      "size": 216
+    },
+    {
+      "name": "malilib.json",
+      "path": "config/malilib.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/malilib.json",
+      "hash": "ad6e3f6e9b8b2e1a86b89ec2f91943eb",
+      "size": 675
+    },
+    {
+      "name": "mcef.properties",
+      "path": "config/mcef/mcef.properties",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/mcef/mcef.properties",
+      "hash": "acaf52191bba7cdafd930d5caa8e0b8b",
+      "size": 139
+    },
+    {
+      "name": "megathread.json",
+      "path": "config/megathread.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/megathread.json",
+      "hash": "07ab00d06bdde3d1edea8c7a1278b449",
+      "size": 177
+    },
+    {
+      "name": "midnightlib.json",
+      "path": "config/midnightlib.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/midnightlib.json",
+      "hash": "5d33d36208b50f3a0951695c2e806d98",
+      "size": 37
+    },
+    {
+      "name": "minihud.json",
+      "path": "config/minihud.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/minihud.json",
+      "hash": "fa95112e532adbe49e9ae009598b2854",
+      "size": 19567
+    },
+    {
+      "name": "modelfix-client.toml",
+      "path": "config/modelfix-client.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/modelfix-client.toml",
+      "hash": "c27a94dc7001778fcf51a69bca25872a",
+      "size": 1383
+    },
+    {
+      "name": "modernfix-common.toml",
+      "path": "config/modernfix-common.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/modernfix-common.toml",
+      "hash": "40e1cfe891a1355f22e5c07591f8943e",
+      "size": 105
     },
     {
       "name": "modernfix-mixins.properties",
       "path": "config/modernfix-mixins.properties",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/modernfix-mixins.properties",
-      "hash": "a30e1ff535e732602b502151a72ac054",
-      "size": 952
+      "hash": "d60530229fbf0fc5e6d41e647463c62f",
+      "size": 5131
+    },
+    {
+      "name": "mod_menu-client.toml",
+      "path": "config/mod_menu-client.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/mod_menu-client.toml",
+      "hash": "c564280ffa0b2732ec2224607187d8c6",
+      "size": 2614
+    },
+    {
+      "name": "monolib-common.toml",
+      "path": "config/monolib-common.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/monolib-common.toml",
+      "hash": "f3b3cf601fa9098b781f0832b7b0f630",
+      "size": 230
+    },
+    {
+      "name": "moonlight-client.toml",
+      "path": "config/moonlight-client.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/moonlight-client.toml",
+      "hash": "c50fb486b7f219edb822e77c5e9689c1",
+      "size": 1283
+    },
+    {
+      "name": "moonlight-common.toml",
+      "path": "config/moonlight-common.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/moonlight-common.toml",
+      "hash": "7e6fe30a7ff507f7ec4d353623e6bbbf",
+      "size": 960
+    },
+    {
+      "name": "moreculling.toml",
+      "path": "config/moreculling.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/moreculling.toml",
+      "hash": "f8beb616c4a3a52cbab5827b0df5e67e",
+      "size": 540
+    },
+    {
+      "name": "MouseTweaks.cfg",
+      "path": "config/MouseTweaks.cfg",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/MouseTweaks.cfg",
+      "hash": "ff577ca09e989c07c056c7cdff465be3",
+      "size": 135
+    },
+    {
+      "name": "naturescompass-client.toml",
+      "path": "config/naturescompass-client.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/naturescompass-client.toml",
+      "hash": "b67300d8b6f86d2b5c45ec670dd99458",
+      "size": 444
+    },
+    {
+      "name": "naturescompass-common.toml",
+      "path": "config/naturescompass-common.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/naturescompass-common.toml",
+      "hash": "d6514900ef0e1ec7345c863dafcabc82",
+      "size": 1194
+    },
+    {
+      "name": "necessities.yaml",
+      "path": "config/necessities.yaml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/necessities.yaml",
+      "hash": "3b35d6ee1177b2878797d6d867730b75",
+      "size": 1039
+    },
+    {
+      "name": "necronomicon.json5",
+      "path": "config/necronomicon.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/necronomicon.json5",
+      "hash": "f5d72523e51844112485d6c21b8d51c3",
+      "size": 266
+    },
+    {
+      "name": "neoforge-client.toml",
+      "path": "config/neoforge-client.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/neoforge-client.toml",
+      "hash": "7f81c16ea3d467da83df18250f772149",
+      "size": 578
+    },
+    {
+      "name": "neoforge-common.toml",
+      "path": "config/neoforge-common.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/neoforge-common.toml",
+      "hash": "914110a675baa858ef6725e3f56e513c",
+      "size": 772
+    },
+    {
+      "name": "emi.yaml",
+      "path": "config/nerb/compat/emi.yaml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/nerb/compat/emi.yaml",
+      "hash": "6d9ed38fa7efa021d4793631421fcc90",
+      "size": 472
+    },
+    {
+      "name": "general.yaml",
+      "path": "config/nerb/general.yaml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/nerb/general.yaml",
+      "hash": "2532fbe25742f3155afb262c37c08ce2",
+      "size": 633
+    },
+    {
+      "name": "notenoughanimations.json",
+      "path": "config/notenoughanimations.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/notenoughanimations.json",
+      "hash": "28529f8343ac1be86c525c8a3e1e6ca2",
+      "size": 3303
+    },
+    {
+      "name": "oeuvre-common.toml",
+      "path": "config/oeuvre-common.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/oeuvre-common.toml",
+      "hash": "f00907c3f3c80427d908902542b4dee4",
+      "size": 330
+    },
+    {
+      "name": "config.json",
+      "path": "config/particlerain/config.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/particlerain/config.json",
+      "hash": "80ddd562fd2e128d071903c964c7d871",
+      "size": 1163
+    },
+    {
+      "name": "patchouli-client.toml",
+      "path": "config/patchouli-client.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/patchouli-client.toml",
+      "hash": "096d15a4d3d4a87d58076883a3ac17aa",
+      "size": 1089
+    },
+    {
+      "name": "placebo.cfg",
+      "path": "config/placebo.cfg",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/placebo.cfg",
+      "hash": "4b7cc2ff78cad0c1c45e8ec87d96c6b5",
+      "size": 495
+    },
+    {
+      "name": "de_de.json",
+      "path": "config/plasmovoice/.crowdin/de_de.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/plasmovoice/.crowdin/de_de.json",
+      "hash": "cb8838ceada0cc1ac72d33c3359eb883",
+      "size": 8510
+    },
+    {
+      "name": "es_es.json",
+      "path": "config/plasmovoice/.crowdin/es_es.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/plasmovoice/.crowdin/es_es.json",
+      "hash": "ebe33e9b2d8f8f2d4519edb2e4394e40",
+      "size": 9115
+    },
+    {
+      "name": "fr_fr.json",
+      "path": "config/plasmovoice/.crowdin/fr_fr.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/plasmovoice/.crowdin/fr_fr.json",
+      "hash": "f3a517b45d6920f327020408fd9751fd",
+      "size": 9154
+    },
+    {
+      "name": "he_il.json",
+      "path": "config/plasmovoice/.crowdin/he_il.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/plasmovoice/.crowdin/he_il.json",
+      "hash": "2f2e21189a6f11d39a33b7b66a111b5c",
+      "size": 9290
+    },
+    {
+      "name": "ja_jp.json",
+      "path": "config/plasmovoice/.crowdin/ja_jp.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/plasmovoice/.crowdin/ja_jp.json",
+      "hash": "5ccf0895426e7fca281ca28d13dccc31",
+      "size": 9467
+    },
+    {
+      "name": "ko_kr.json",
+      "path": "config/plasmovoice/.crowdin/ko_kr.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/plasmovoice/.crowdin/ko_kr.json",
+      "hash": "ab87eb710206cd3eef9e1ba03f88bd57",
+      "size": 9208
+    },
+    {
+      "name": "pl_pl.json",
+      "path": "config/plasmovoice/.crowdin/pl_pl.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/plasmovoice/.crowdin/pl_pl.json",
+      "hash": "6a09569fa006d3f01bc00333838df100",
+      "size": 8890
+    },
+    {
+      "name": "pt_br.json",
+      "path": "config/plasmovoice/.crowdin/pt_br.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/plasmovoice/.crowdin/pt_br.json",
+      "hash": "97bd0d3f6c281f960cf448c4346563fc",
+      "size": 9046
+    },
+    {
+      "name": "ru_ru.json",
+      "path": "config/plasmovoice/.crowdin/ru_ru.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/plasmovoice/.crowdin/ru_ru.json",
+      "hash": "9c3a8c7dc0eb3a6640847988b139fb00",
+      "size": 11446
+    },
+    {
+      "name": "timestamp",
+      "path": "config/plasmovoice/.crowdin/timestamp",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/plasmovoice/.crowdin/timestamp",
+      "hash": "1932d7869ccddd44b7f2e9af6b1fcaf7",
+      "size": 13
+    },
+    {
+      "name": "tr_tr.json",
+      "path": "config/plasmovoice/.crowdin/tr_tr.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/plasmovoice/.crowdin/tr_tr.json",
+      "hash": "9eb2a3be47503ed7b7065e4c3f2413bc",
+      "size": 1545
+    },
+    {
+      "name": "tt_ru.json",
+      "path": "config/plasmovoice/.crowdin/tt_ru.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/plasmovoice/.crowdin/tt_ru.json",
+      "hash": "6f8f48b6ce5ec3b6f8ea9cf34a3d5dc4",
+      "size": 11312
+    },
+    {
+      "name": "uk_ua.json",
+      "path": "config/plasmovoice/.crowdin/uk_ua.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/plasmovoice/.crowdin/uk_ua.json",
+      "hash": "a68060377351fcfdbf5c0af87330e6c7",
+      "size": 10828
+    },
+    {
+      "name": "vi_vn.json",
+      "path": "config/plasmovoice/.crowdin/vi_vn.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/plasmovoice/.crowdin/vi_vn.json",
+      "hash": "0458e0a83010b7648fec3488e7dd2341",
+      "size": 10102
+    },
+    {
+      "name": "zh_cn.json",
+      "path": "config/plasmovoice/.crowdin/zh_cn.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/plasmovoice/.crowdin/zh_cn.json",
+      "hash": "6a385d12b888457adee2b62acc8e9aa6",
+      "size": 8123
+    },
+    {
+      "name": "zh_tw.json",
+      "path": "config/plasmovoice/.crowdin/zh_tw.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/plasmovoice/.crowdin/zh_tw.json",
+      "hash": "5afb2f116f79813891221626cbdeb096",
+      "size": 8119
+    },
+    {
+      "name": "client.toml",
+      "path": "config/plasmovoice/client.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/plasmovoice/client.toml",
+      "hash": "20667928114eec9ef12fdd88ca8e70ea",
+      "size": 1576
+    },
+    {
+      "name": "meta_cache.json",
+      "path": "config/plasmovoice/meta_cache.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/plasmovoice/meta_cache.json",
+      "hash": "bb5e1fdb0b189b87e652b338db8d1436",
+      "size": 1309
+    },
+    {
+      "name": "config.toml",
+      "path": "config/plasmovoice/server/config.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/plasmovoice/server/config.toml",
+      "hash": "97252d1f0f3b01761f5b6d0934205e86",
+      "size": 3596
+    },
+    {
+      "name": "de_de.toml",
+      "path": "config/plasmovoice/server/languages/.crowdin/de_de.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/plasmovoice/server/languages/.crowdin/de_de.toml",
+      "hash": "2089abe483e394b6bca56e9d5e678356",
+      "size": 2187
+    },
+    {
+      "name": "es_es.toml",
+      "path": "config/plasmovoice/server/languages/.crowdin/es_es.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/plasmovoice/server/languages/.crowdin/es_es.toml",
+      "hash": "a460aa40e6caf8f608d5d9eef37a352d",
+      "size": 2123
+    },
+    {
+      "name": "fr_fr.toml",
+      "path": "config/plasmovoice/server/languages/.crowdin/fr_fr.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/plasmovoice/server/languages/.crowdin/fr_fr.toml",
+      "hash": "740fdb640a023b211ed687635401a9d1",
+      "size": 2099
+    },
+    {
+      "name": "he_il.toml",
+      "path": "config/plasmovoice/server/languages/.crowdin/he_il.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/plasmovoice/server/languages/.crowdin/he_il.toml",
+      "hash": "f9dea392bcf8b6e753a27df4f992423b",
+      "size": 2228
+    },
+    {
+      "name": "ja_jp.toml",
+      "path": "config/plasmovoice/server/languages/.crowdin/ja_jp.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/plasmovoice/server/languages/.crowdin/ja_jp.toml",
+      "hash": "f0eee7a99ea6c2d643c8140c19454a8a",
+      "size": 2508
+    },
+    {
+      "name": "ko_kr.toml",
+      "path": "config/plasmovoice/server/languages/.crowdin/ko_kr.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/plasmovoice/server/languages/.crowdin/ko_kr.toml",
+      "hash": "0ebaa356e476ef191aea62286e6f6201",
+      "size": 2356
+    },
+    {
+      "name": "pl_pl.toml",
+      "path": "config/plasmovoice/server/languages/.crowdin/pl_pl.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/plasmovoice/server/languages/.crowdin/pl_pl.toml",
+      "hash": "878c8082d74bf35b7a90e09bdeb2e77c",
+      "size": 2040
+    },
+    {
+      "name": "pt_br.toml",
+      "path": "config/plasmovoice/server/languages/.crowdin/pt_br.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/plasmovoice/server/languages/.crowdin/pt_br.toml",
+      "hash": "5bce271883e6122226e028673426ef48",
+      "size": 2035
+    },
+    {
+      "name": "ru_ru.toml",
+      "path": "config/plasmovoice/server/languages/.crowdin/ru_ru.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/plasmovoice/server/languages/.crowdin/ru_ru.toml",
+      "hash": "c7f9382eefb0b7eaa0019e53ca59a1d8",
+      "size": 2531
+    },
+    {
+      "name": "timestamp",
+      "path": "config/plasmovoice/server/languages/.crowdin/timestamp",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/plasmovoice/server/languages/.crowdin/timestamp",
+      "hash": "930ea28177767006fd50ae97bda5751e",
+      "size": 13
+    },
+    {
+      "name": "tr_tr.toml",
+      "path": "config/plasmovoice/server/languages/.crowdin/tr_tr.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/plasmovoice/server/languages/.crowdin/tr_tr.toml",
+      "hash": "16bda59435bd4feebc8d3a49468aa5cf",
+      "size": 2125
+    },
+    {
+      "name": "tt_ru.toml",
+      "path": "config/plasmovoice/server/languages/.crowdin/tt_ru.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/plasmovoice/server/languages/.crowdin/tt_ru.toml",
+      "hash": "f5d14860658cf0751277709266047a8c",
+      "size": 2913
+    },
+    {
+      "name": "uk_ua.toml",
+      "path": "config/plasmovoice/server/languages/.crowdin/uk_ua.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/plasmovoice/server/languages/.crowdin/uk_ua.toml",
+      "hash": "679c42fb12563dead83f7a0111ba6eb4",
+      "size": 2730
+    },
+    {
+      "name": "vi_vn.toml",
+      "path": "config/plasmovoice/server/languages/.crowdin/vi_vn.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/plasmovoice/server/languages/.crowdin/vi_vn.toml",
+      "hash": "f660c598baaf3db5590a61f576bdc78c",
+      "size": 2258
+    },
+    {
+      "name": "zh_cn.toml",
+      "path": "config/plasmovoice/server/languages/.crowdin/zh_cn.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/plasmovoice/server/languages/.crowdin/zh_cn.toml",
+      "hash": "74b40c78208fe6f358a346dd2adb76e8",
+      "size": 1882
+    },
+    {
+      "name": "zh_tw.toml",
+      "path": "config/plasmovoice/server/languages/.crowdin/zh_tw.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/plasmovoice/server/languages/.crowdin/zh_tw.toml",
+      "hash": "6c4a2685db02eb56892a8440c075ce40",
+      "size": 1879
+    },
+    {
+      "name": "de_de.toml",
+      "path": "config/plasmovoice/server/languages/de_de.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/plasmovoice/server/languages/de_de.toml",
+      "hash": "93a9d14a724a6502ac6e7fdca8d7b121",
+      "size": 2175
+    },
+    {
+      "name": "en_us.toml",
+      "path": "config/plasmovoice/server/languages/en_us.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/plasmovoice/server/languages/en_us.toml",
+      "hash": "49ebe9ff33a62a4f28ec5b8b965ba2c9",
+      "size": 1892
+    },
+    {
+      "name": "es_es.toml",
+      "path": "config/plasmovoice/server/languages/es_es.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/plasmovoice/server/languages/es_es.toml",
+      "hash": "285832ac1b88e96ce360eddf2b5fe8b3",
+      "size": 2111
+    },
+    {
+      "name": "fr_fr.toml",
+      "path": "config/plasmovoice/server/languages/fr_fr.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/plasmovoice/server/languages/fr_fr.toml",
+      "hash": "ac96d5a885a08166603b8c4a872b8cfa",
+      "size": 2087
+    },
+    {
+      "name": "he_il.toml",
+      "path": "config/plasmovoice/server/languages/he_il.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/plasmovoice/server/languages/he_il.toml",
+      "hash": "e0dd440bbd2b90aa0218ce09316ba0fa",
+      "size": 2216
+    },
+    {
+      "name": "ja_jp.toml",
+      "path": "config/plasmovoice/server/languages/ja_jp.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/plasmovoice/server/languages/ja_jp.toml",
+      "hash": "0501901e5fd117eb8720be4f385a66a0",
+      "size": 2496
+    },
+    {
+      "name": "ko_kr.toml",
+      "path": "config/plasmovoice/server/languages/ko_kr.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/plasmovoice/server/languages/ko_kr.toml",
+      "hash": "22ca682e2bacbdd62a664d52977218e6",
+      "size": 2344
+    },
+    {
+      "name": "pl_pl.toml",
+      "path": "config/plasmovoice/server/languages/pl_pl.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/plasmovoice/server/languages/pl_pl.toml",
+      "hash": "65591e68a7501980c5c4270c096203ea",
+      "size": 2028
+    },
+    {
+      "name": "pt_br.toml",
+      "path": "config/plasmovoice/server/languages/pt_br.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/plasmovoice/server/languages/pt_br.toml",
+      "hash": "f0f8d12c31b72c36c2b806fd47786f80",
+      "size": 2023
+    },
+    {
+      "name": "ru_ru.toml",
+      "path": "config/plasmovoice/server/languages/ru_ru.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/plasmovoice/server/languages/ru_ru.toml",
+      "hash": "1b3d72cf2e187d8bcd62fb8d49bd03a7",
+      "size": 2519
+    },
+    {
+      "name": "tr_tr.toml",
+      "path": "config/plasmovoice/server/languages/tr_tr.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/plasmovoice/server/languages/tr_tr.toml",
+      "hash": "38118ddc5b420e228ef5e0754df0fb83",
+      "size": 2132
+    },
+    {
+      "name": "tt_ru.toml",
+      "path": "config/plasmovoice/server/languages/tt_ru.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/plasmovoice/server/languages/tt_ru.toml",
+      "hash": "0b9b86cc64bb0b57427f61dfe53d436f",
+      "size": 2901
+    },
+    {
+      "name": "uk_ua.toml",
+      "path": "config/plasmovoice/server/languages/uk_ua.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/plasmovoice/server/languages/uk_ua.toml",
+      "hash": "3460a9c5c46205ee2892e18b2f62a2bd",
+      "size": 2718
+    },
+    {
+      "name": "vi_vn.toml",
+      "path": "config/plasmovoice/server/languages/vi_vn.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/plasmovoice/server/languages/vi_vn.toml",
+      "hash": "03f4051b5d781b0b17757019365392a8",
+      "size": 2246
+    },
+    {
+      "name": "zh_cn.toml",
+      "path": "config/plasmovoice/server/languages/zh_cn.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/plasmovoice/server/languages/zh_cn.toml",
+      "hash": "3fdc475103740fa0974b9c006a78bd5d",
+      "size": 1870
+    },
+    {
+      "name": "zh_tw.toml",
+      "path": "config/plasmovoice/server/languages/zh_tw.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/plasmovoice/server/languages/zh_tw.toml",
+      "hash": "d5f312dfe6d8ef936b807e736807d2f4",
+      "size": 1867
+    },
+    {
+      "name": "voice_mutes.json",
+      "path": "config/plasmovoice/server/voice_mutes.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/plasmovoice/server/voice_mutes.json",
+      "hash": "99914b932bd37a50b983c5e7c90ae93b",
+      "size": 2
+    },
+    {
+      "name": "playerrevive-client.json",
+      "path": "config/playerrevive-client.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/playerrevive-client.json",
+      "hash": "a3124ef28058a8afae83c56f160d237b",
+      "size": 131
+    },
+    {
+      "name": "plushie_buddies-common.toml",
+      "path": "config/plushie_buddies-common.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/plushie_buddies-common.toml",
+      "hash": "ace483d74ebe6040a7aa6fc0cc1e0fa7",
+      "size": 300
+    },
+    {
+      "name": "polylib.json",
+      "path": "config/polylib.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/polylib.json",
+      "hash": "cdc3258cb14febb6617f9c92ced136ab",
+      "size": 167
+    },
+    {
+      "name": "ponder-client.toml",
+      "path": "config/ponder-client.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/ponder-client.toml",
+      "hash": "a71defd616367abffa6e71a2d3b64b48",
+      "size": 635
+    },
+    {
+      "name": "recipeessentials.json",
+      "path": "config/recipeessentials.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/recipeessentials.json",
+      "hash": "abbd7019d67ee13e3f284730beacceea",
+      "size": 1105
+    },
+    {
+      "name": "refurbished_furniture.client.toml",
+      "path": "config/refurbished_furniture.client.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/refurbished_furniture.client.toml",
+      "hash": "76639e0524f463147031c8982a19bede",
+      "size": 1175
+    },
+    {
+      "name": "resourceful-config-web.json",
+      "path": "config/resourceful-config-web.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/resourceful-config-web.json",
+      "hash": "855837121c396ac769c088624d5715d2",
+      "size": 196
+    },
+    {
+      "name": "resourcify.json",
+      "path": "config/resourcify.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/resourcify.json",
+      "hash": "7cbbcd3229f888c01e89ec7e918a0840",
+      "size": 275
+    },
+    {
+      "name": "rightclickharvest.json5",
+      "path": "config/rightclickharvest.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/rightclickharvest.json5",
+      "hash": "6f1d5d9807c1df57d0495423a49cdde9",
+      "size": 609
+    },
+    {
+      "name": "RuOK.toml",
+      "path": "config/RuOK.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/RuOK.toml",
+      "hash": "eb0ed804fc01391babf455e769150f46",
+      "size": 993
+    },
+    {
+      "name": "saturn-optimizations.toml",
+      "path": "config/saturn-optimizations.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/saturn-optimizations.toml",
+      "hash": "f851a4d85ca8cf097e88342e890eba34",
+      "size": 443
+    },
+    {
+      "name": "scalablelux.properties",
+      "path": "config/scalablelux.properties",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/scalablelux.properties",
+      "hash": "21ff6b915c4da9991a0c4ff9c73349ba",
+      "size": 84
+    },
+    {
+      "name": "config.yml",
+      "path": "config/servercore/config.yml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/servercore/config.yml",
+      "hash": "2550bf0e760c720aeeade46a4243d5d8",
+      "size": 11778
+    },
+    {
+      "name": "optimizations.yml",
+      "path": "config/servercore/optimizations.yml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/servercore/optimizations.yml",
+      "hash": "7d1200ccbfa1cc6d2abe994480c6464b",
+      "size": 1392
+    },
+    {
+      "name": "server-entries.toml",
+      "path": "config/simple-rpc/server-entries.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/simple-rpc/server-entries.toml",
+      "hash": "c1d25129313571d7ffa9aa2654338ec2",
+      "size": 150
+    },
+    {
+      "name": "simple-rpc.toml",
+      "path": "config/simple-rpc/simple-rpc.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/simple-rpc/simple-rpc.toml",
+      "hash": "0917ecd34537effa25bbac5cfe0fd4b3",
+      "size": 15611
+    },
+    {
+      "name": "skinlayers.json",
+      "path": "config/skinlayers.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/skinlayers.json",
+      "hash": "04d6f743e89a6fba20ddef26e3fbef9a",
+      "size": 497
+    },
+    {
+      "name": "config.json",
+      "path": "config/skinrestorer/config.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/skinrestorer/config.json",
+      "hash": "d014be831c4f2339b2cc50345ece8782",
+      "size": 923
+    },
+    {
+      "name": "smoothchunk.json",
+      "path": "config/smoothchunk.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/smoothchunk.json",
+      "hash": "854ac5572ff95f7de0d6423aeb9fba04",
+      "size": 585
+    },
+    {
+      "name": "sodium-fingerprint.json",
+      "path": "config/sodium-fingerprint.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/sodium-fingerprint.json",
+      "hash": "e48f6fd909a0df2a72d23d14b20ce573",
+      "size": 427
     },
     {
       "name": "sodium-mixins.properties",
@@ -181,6 +2008,391 @@
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/sodium-mixins.properties",
       "hash": "05340904b512568f9739c8a710f72d86",
       "size": 373
+    },
+    {
+      "name": "sodium-options.json",
+      "path": "config/sodium-options.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/sodium-options.json",
+      "hash": "3ce98b9fd30ed0d3f7b5d81fac1f2511",
+      "size": 685
+    },
+    {
+      "name": "allowed_sounds.properties",
+      "path": "config/sound_physics_remastered/allowed_sounds.properties",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/sound_physics_remastered/allowed_sounds.properties",
+      "hash": "f2b48df73ea19ff0da28b35d809b21b6",
+      "size": 111245
+    },
+    {
+      "name": "occlusion.properties",
+      "path": "config/sound_physics_remastered/occlusion.properties",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/sound_physics_remastered/occlusion.properties",
+      "hash": "65630e0f012205fc8b074e2f90ff89c2",
+      "size": 4831
+    },
+    {
+      "name": "reflectivity.properties",
+      "path": "config/sound_physics_remastered/reflectivity.properties",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/sound_physics_remastered/reflectivity.properties",
+      "hash": "a96fdc43367fe049dff56acbf204a79d",
+      "size": 4713
+    },
+    {
+      "name": "soundphysics.properties",
+      "path": "config/sound_physics_remastered/soundphysics.properties",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/sound_physics_remastered/soundphysics.properties",
+      "hash": "1819a3cbf350b2f03143b7ef400f77f0",
+      "size": 5105
+    },
+    {
+      "name": "about.txt",
+      "path": "config/spark/tmp/about.txt",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/spark/tmp/about.txt",
+      "hash": "d822f67c23969500ab422b9720144baf",
+      "size": 585
+    },
+    {
+      "name": "storagedrawers-client.toml",
+      "path": "config/storagedrawers-client.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/storagedrawers-client.toml",
+      "hash": "749304d6a0aa3396a57bb788850d9f4e",
+      "size": 937
+    },
+    {
+      "name": "storagedrawers-common.v2.toml",
+      "path": "config/storagedrawers-common.v2.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/storagedrawers-common.v2.toml",
+      "hash": "f7dd989fa9cff27bcc33deb8b17bdd09",
+      "size": 14393
+    },
+    {
+      "name": "structureessentials.json",
+      "path": "config/structureessentials.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/structureessentials.json",
+      "hash": "76e2baca540b400f9f8024c9428e6e9e",
+      "size": 3787
+    },
+    {
+      "name": "structure_layout_optimizer.jsonc",
+      "path": "config/structure_layout_optimizer.jsonc",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/structure_layout_optimizer.jsonc",
+      "hash": "8164106afd7410cdd1bc9cab4e153654",
+      "size": 1058
+    },
+    {
+      "name": "superbwarfare-client.toml",
+      "path": "config/superbwarfare-client.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/superbwarfare-client.toml",
+      "hash": "3d6fb4a7ee3b188441bd06e52ec77a8c",
+      "size": 2663
+    },
+    {
+      "name": "superbwarfare-common.toml",
+      "path": "config/superbwarfare-common.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/superbwarfare-common.toml",
+      "hash": "21cf79ec5e393689d0c5fd0d3562b8d5",
+      "size": 305
+    },
+    {
+      "name": "tacz-client.toml",
+      "path": "config/tacz-client.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/tacz-client.toml",
+      "hash": "b61bb3fdbf303c78e136caf5e7f4b364",
+      "size": 2641
+    },
+    {
+      "name": "tacz-common.toml",
+      "path": "config/tacz-common.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/tacz-common.toml",
+      "hash": "8a706b54d0727a0103d13013c2666a3d",
+      "size": 2312
+    },
+    {
+      "name": "tacz-pre.toml",
+      "path": "config/tacz-pre.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/tacz-pre.toml",
+      "hash": "0739ab05d46c40ca680480d304192284",
+      "size": 218
+    },
+    {
+      "name": "tfmg-common.toml",
+      "path": "config/tfmg-common.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/tfmg-common.toml",
+      "hash": "b365264aa5fe577fc144106f7ddc0af6",
+      "size": 3451
+    },
+    {
+      "name": "bee_aggression.toml",
+      "path": "config/the_bumblezone/bee_aggression.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/the_bumblezone/bee_aggression.toml",
+      "hash": "358e395d7cd62064d0eceb8dc778a727",
+      "size": 3493
+    },
+    {
+      "name": "client.toml",
+      "path": "config/the_bumblezone/client.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/the_bumblezone/client.toml",
+      "hash": "dd038139403112231bb2d99a00ba721b",
+      "size": 5238
+    },
+    {
+      "name": "dimension.toml",
+      "path": "config/the_bumblezone/dimension.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/the_bumblezone/dimension.toml",
+      "hash": "11248e2665d45a97f6a35aa9a5f0ad9f",
+      "size": 2690
+    },
+    {
+      "name": "general.toml",
+      "path": "config/the_bumblezone/general.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/the_bumblezone/general.toml",
+      "hash": "4eb3e31544860cee99e1ee7e8c23c3cf",
+      "size": 12771
+    },
+    {
+      "name": "mod_compatibility.toml",
+      "path": "config/the_bumblezone/mod_compatibility.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/the_bumblezone/mod_compatibility.toml",
+      "hash": "20cdb6f1abc6e8ad27ded9189215d080",
+      "size": 9828
+    },
+    {
+      "name": "worldgen.toml",
+      "path": "config/the_bumblezone/worldgen.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/the_bumblezone/worldgen.toml",
+      "hash": "784bab168b3886f41994f7bf8381eba1",
+      "size": 992
+    },
+    {
+      "name": "threadtweak.json",
+      "path": "config/threadtweak.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/threadtweak.json",
+      "hash": "07ab00d06bdde3d1edea8c7a1278b449",
+      "size": 177
+    },
+    {
+      "name": "toadlib_config.txt",
+      "path": "config/toadlib_config.txt",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/toadlib_config.txt",
+      "hash": "190c9d34a63df32aba3fc44180c87d35",
+      "size": 43
+    },
+    {
+      "name": "tombstone-client.toml",
+      "path": "config/tombstone-client.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/tombstone-client.toml",
+      "hash": "9143daf537ecf61e44761d1800bf6b59",
+      "size": 4193
+    },
+    {
+      "name": "tombstone-common.toml",
+      "path": "config/tombstone-common.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/tombstone-common.toml",
+      "hash": "bd194e9daededdccbf4a443b3f48b50c",
+      "size": 9450
+    },
+    {
+      "name": "toms_storage-common.toml",
+      "path": "config/toms_storage-common.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/toms_storage-common.toml",
+      "hash": "19013efccdae27331b02b284dbbaedfd",
+      "size": 844
+    },
+    {
+      "name": "structure_enable_or_disable_new.json5",
+      "path": "config/towns_and_towers/structure_enable_or_disable_new.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/towns_and_towers/structure_enable_or_disable_new.json5",
+      "hash": "fbccc75e368d3ee378b2415421c0abde",
+      "size": 3051
+    },
+    {
+      "name": "structure_rarity_new.json5",
+      "path": "config/towns_and_towers/structure_rarity_new.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/towns_and_towers/structure_rarity_new.json5",
+      "hash": "ed94246ff48f8f7f92e7d77c33c3a95f",
+      "size": 1520
+    },
+    {
+      "name": "trafficcraft-common.toml",
+      "path": "config/trafficcraft-common.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/trafficcraft-common.toml",
+      "hash": "5827d5ab61882fd1611c7293842ac047",
+      "size": 1339
+    },
+    {
+      "name": "transition.json",
+      "path": "config/transition.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/transition.json",
+      "hash": "939cbb1d75f242d47e2aa1a9d536a3e7",
+      "size": 62
+    },
+    {
+      "name": "travelersbackpack-client.toml",
+      "path": "config/travelersbackpack-client.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/travelersbackpack-client.toml",
+      "hash": "75404b39457df374f1114b438f0c2eba",
+      "size": 1161
+    },
+    {
+      "name": "travelersbackpack-common.toml",
+      "path": "config/travelersbackpack-common.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/travelersbackpack-common.toml",
+      "hash": "4051d354d72650dcd84d108894bc12c1",
+      "size": 197
+    },
+    {
+      "name": "trender.json",
+      "path": "config/trender.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/trender.json",
+      "hash": "c449ad0a8d190858ec253ed1bc75e05d",
+      "size": 47
+    },
+    {
+      "name": "tweakeroo.json",
+      "path": "config/tweakeroo.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/tweakeroo.json",
+      "hash": "617ffb135cc7253897d9c1ae22cbb66d",
+      "size": 25763
+    },
+    {
+      "name": "underground_villages-common.toml",
+      "path": "config/underground_villages-common.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/underground_villages-common.toml",
+      "hash": "4fabbcf8346823c364270692d98c924b",
+      "size": 157
+    },
+    {
+      "name": "vampiresneedumbrellas-common.toml",
+      "path": "config/vampiresneedumbrellas-common.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/vampiresneedumbrellas-common.toml",
+      "hash": "472f0abce3455fc0b2cb0762d8ebd568",
+      "size": 2000
+    },
+    {
+      "name": "vampirism-client.toml",
+      "path": "config/vampirism-client.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/vampirism-client.toml",
+      "hash": "e11a25cdfeb74f1af314c3eb0a7f7390",
+      "size": 2705
+    },
+    {
+      "name": "vampirism-common.toml",
+      "path": "config/vampirism-common.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/vampirism-common.toml",
+      "hash": "08cc1446b613f79c47c6a6aec1534f07",
+      "size": 1931
+    },
+    {
+      "name": "placement_structure_config.json5",
+      "path": "config/vanilla_structures/placement_structure_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/vanilla_structures/placement_structure_config.json5",
+      "hash": "c26bb09ed1ad04c12e6f37313274d1cc",
+      "size": 1690
+    },
+    {
+      "name": "toggle_structure_config.json5",
+      "path": "config/vanilla_structures/toggle_structure_config.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/vanilla_structures/toggle_structure_config.json5",
+      "hash": "672f5f27e8132d7b4499765c26625c83",
+      "size": 1423
+    },
+    {
+      "name": "config.toml",
+      "path": "config/visuality/config.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/visuality/config.toml",
+      "hash": "166d29ce43ea938521df6999e47727ca",
+      "size": 280
+    },
+    {
+      "name": "block_ambient.json",
+      "path": "config/visuality/particle_emitters/block_ambient.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/visuality/particle_emitters/block_ambient.json",
+      "hash": "b82077507c331925c1c5c41dd39c6983",
+      "size": 1293
+    },
+    {
+      "name": "block_step.json",
+      "path": "config/visuality/particle_emitters/block_step.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/visuality/particle_emitters/block_step.json",
+      "hash": "b1406c4f89b1cb9a76f11e4830689832",
+      "size": 219
+    },
+    {
+      "name": "entity_armor.json",
+      "path": "config/visuality/particle_emitters/entity_armor.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/visuality/particle_emitters/entity_armor.json",
+      "hash": "c76488a33a2ec64c22b85814b9943483",
+      "size": 737
+    },
+    {
+      "name": "entity_hit.json",
+      "path": "config/visuality/particle_emitters/entity_hit.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/visuality/particle_emitters/entity_hit.json",
+      "hash": "7fcbbd8bdb1f393ac8399a9be4f1f09f",
+      "size": 683
+    },
+    {
+      "name": "visualoverhaul.json",
+      "path": "config/visualoverhaul.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/visualoverhaul.json",
+      "hash": "107ad849c0db7015b9b7e49f64663867",
+      "size": 366
+    },
+    {
+      "name": "voidtotem-common.toml",
+      "path": "config/voidtotem-common.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/voidtotem-common.toml",
+      "hash": "346cba2ebbbd8f95249a9a0a721897dc",
+      "size": 564
+    },
+    {
+      "name": "wakes-client.toml",
+      "path": "config/wakes-client.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/wakes-client.toml",
+      "hash": "486fc33d000dd8518b0155f43c8030e6",
+      "size": 2724
+    },
+    {
+      "name": "watut-client.toml",
+      "path": "config/watut-client.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/watut-client.toml",
+      "hash": "e6a73d35914167498f8c997ab9b7fd21",
+      "size": 3444
+    },
+    {
+      "name": "watut-common.toml",
+      "path": "config/watut-common.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/watut-common.toml",
+      "hash": "e1ad6e33dc749f2f9be5c16174ee1c0d",
+      "size": 169
+    },
+    {
+      "name": "watut-item-arm-adjustments.json",
+      "path": "config/watut-item-arm-adjustments.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/watut-item-arm-adjustments.json",
+      "hash": "25925ecf5d13afcb55b2d4fcff81361c",
+      "size": 3367
+    },
+    {
+      "name": "watut-server.toml",
+      "path": "config/watut-server.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/watut-server.toml",
+      "hash": "22c0bedd7b79ffa96d6f60650c1c3115",
+      "size": 2945
+    },
+    {
+      "name": "waystones-common.toml",
+      "path": "config/waystones-common.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/waystones-common.toml",
+      "hash": "08c3a9a95160125178c03c16e59f7dcc",
+      "size": 6236
+    },
+    {
+      "name": "yacl.json5",
+      "path": "config/yacl.json5",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/config/yacl.json5",
+      "hash": "9378f7cef65c5208431350700cf83a11",
+      "size": 250
     },
     {
       "name": "acceleratedrendering-1.0.8-1.21.1-alpha.jar",
