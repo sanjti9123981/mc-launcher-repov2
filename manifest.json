@@ -2626,6 +2626,13 @@
       "size": 946726
     },
     {
+      "name": "colorwheel-neoforge-1.2.3+mc1.21.1.jar",
+      "path": "mods/colorwheel-neoforge-1.2.3+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/colorwheel-neoforge-1.2.3+mc1.21.1.jar",
+      "hash": "dea6ac6765195f0b3bdcfa72ab00a6b9",
+      "size": 376978
+    },
+    {
       "name": "connectedglass-1.1.14-neoforge-mc1.21.jar",
       "path": "mods/connectedglass-1.1.14-neoforge-mc1.21.jar",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/connectedglass-1.1.14-neoforge-mc1.21.jar",
