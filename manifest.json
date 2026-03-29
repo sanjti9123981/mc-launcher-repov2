@@ -2395,6 +2395,13 @@
       "size": 250
     },
     {
+      "name": "acceleratedrendering-1.0.8-1.21.1-alpha.jar",
+      "path": "mods/acceleratedrendering-1.0.8-1.21.1-alpha.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/acceleratedrendering-1.0.8-1.21.1-alpha.jar",
+      "hash": "82ac4bb97276641c23aaf73b57508b74",
+      "size": 471965
+    },
+    {
       "name": "advancednetherite-neoforge-2.3.1-1.21.1.jar",
       "path": "mods/advancednetherite-neoforge-2.3.1-1.21.1.jar",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/advancednetherite-neoforge-2.3.1-1.21.1.jar",
@@ -2661,11 +2668,11 @@
       "size": 1791747
     },
     {
-      "name": "coroutil-neoforge-1.21.0-1.3.8.jar",
-      "path": "mods/coroutil-neoforge-1.21.0-1.3.8.jar",
-      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/coroutil-neoforge-1.21.0-1.3.8.jar",
-      "hash": "9d410a84fe0216ce18568993afb4f8e5",
-      "size": 63981
+      "name": "coroutil-neoforge-1.21.0-1.3.9.jar",
+      "path": "mods/coroutil-neoforge-1.21.0-1.3.9.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/coroutil-neoforge-1.21.0-1.3.9.jar",
+      "hash": "741721a51d325dfccf1b74f0a792bd88",
+      "size": 65716
     },
     {
       "name": "crashexploitfixer-neoforge-1.1.0+1.21.jar",
@@ -2675,11 +2682,11 @@
       "size": 688579
     },
     {
-      "name": "CraterLib-Neoforge-1.21-3.0.1.jar",
-      "path": "mods/CraterLib-Neoforge-1.21-3.0.1.jar",
-      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/CraterLib-Neoforge-1.21-3.0.1.jar",
-      "hash": "b4fb4d5dbcb512e37b3388dc80247fce",
-      "size": 1241179
+      "name": "CraterLib-Neoforge-1.21-3.1.0.jar",
+      "path": "mods/CraterLib-Neoforge-1.21-3.1.0.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/CraterLib-Neoforge-1.21-3.1.0.jar",
+      "hash": "28c256d6cefed3b1759d852c77ec9f97",
+      "size": 1354750
     },
     {
       "name": "create-1.21.1-6.0.9.jar",
@@ -2815,11 +2822,11 @@
       "size": 234343
     },
     {
-      "name": "CreativeCore_NEOFORGE_v2.13.35_mc1.21.1.jar",
-      "path": "mods/CreativeCore_NEOFORGE_v2.13.35_mc1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/CreativeCore_NEOFORGE_v2.13.35_mc1.21.1.jar",
-      "hash": "8e3329acb1b1c52aef2227c81107602b",
-      "size": 1212692
+      "name": "CreativeCore_NEOFORGE_v2.13.36_mc1.21.1.jar",
+      "path": "mods/CreativeCore_NEOFORGE_v2.13.36_mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/CreativeCore_NEOFORGE_v2.13.36_mc1.21.1.jar",
+      "hash": "138cad90ae6cba7e891ac092062f0e83",
+      "size": 1213893
     },
     {
       "name": "CreeperOverhaul-neoforge-1.21.1-4.0.6.jar",
@@ -2906,11 +2913,11 @@
       "size": 1184499
     },
     {
-      "name": "doespotatotick-1.21.1-5.5.5.jar",
-      "path": "mods/doespotatotick-1.21.1-5.5.5.jar",
-      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/doespotatotick-1.21.1-5.5.5.jar",
-      "hash": "a8148ca5017a925208d61bd0850a34f6",
-      "size": 47890
+      "name": "doespotatotick-1.21.1-5.6.2.jar",
+      "path": "mods/doespotatotick-1.21.1-5.6.2.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/doespotatotick-1.21.1-5.6.2.jar",
+      "hash": "8b3d047b22acc00ce4951b493fa52e60",
+      "size": 46487
     },
     {
       "name": "DramaticDoors-NeoQuiFab-1.21.1-3.3.2.jar",
@@ -2955,18 +2962,18 @@
       "size": 1573130
     },
     {
-      "name": "entity_model_features_1.21-neoforge-3.0.12.jar",
-      "path": "mods/entity_model_features_1.21-neoforge-3.0.12.jar",
-      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/entity_model_features_1.21-neoforge-3.0.12.jar",
-      "hash": "e657e6b037a82733207f9a0664741011",
-      "size": 498869
+      "name": "entity_model_features_1.21-neoforge-3.0.17.jar",
+      "path": "mods/entity_model_features_1.21-neoforge-3.0.17.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/entity_model_features_1.21-neoforge-3.0.17.jar",
+      "hash": "effa54228927fbdaf98e82eaa3b83128",
+      "size": 500507
     },
     {
-      "name": "entity_texture_features_1.21-neoforge-7.0.9.jar",
-      "path": "mods/entity_texture_features_1.21-neoforge-7.0.9.jar",
-      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/entity_texture_features_1.21-neoforge-7.0.9.jar",
-      "hash": "488a07b9b5e7c367147507d044c69eab",
-      "size": 735043
+      "name": "entity_texture_features_1.21-neoforge-7.0.13.jar",
+      "path": "mods/entity_texture_features_1.21-neoforge-7.0.13.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/entity_texture_features_1.21-neoforge-7.0.13.jar",
+      "hash": "c238037afea63aaa7483d9597aec402c",
+      "size": 735147
     },
     {
       "name": "EpheroLib-1.21.1-NEO-FORGE-1.2.0.jar",
@@ -2997,11 +3004,11 @@
       "size": 4297501
     },
     {
-      "name": "FarmersDelight-1.21.1-1.2.10.jar",
-      "path": "mods/FarmersDelight-1.21.1-1.2.10.jar",
-      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/FarmersDelight-1.21.1-1.2.10.jar",
-      "hash": "b1971a08ee136896c419d94c89702341",
-      "size": 2935025
+      "name": "FarmersDelight-1.21.1-1.2.11.jar",
+      "path": "mods/FarmersDelight-1.21.1-1.2.11.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/FarmersDelight-1.21.1-1.2.11.jar",
+      "hash": "031f81f1de33d0acbca9105a54616bae",
+      "size": 2941573
     },
     {
       "name": "fastasyncworldsave-1.21-2.6.jar",
@@ -3396,11 +3403,11 @@
       "size": 4044857
     },
     {
-      "name": "L_Ender's Cataclysm 1.21.1-3.24.jar",
-      "path": "mods/L_Ender's Cataclysm 1.21.1-3.24.jar",
-      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/L_Ender's Cataclysm 1.21.1-3.24.jar",
-      "hash": "7744e6c617060bb38933836c3695b5cc",
-      "size": 73344832
+      "name": "L_Ender's Cataclysm 1.21.1-3.25.jar",
+      "path": "mods/L_Ender's Cataclysm 1.21.1-3.25.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/L_Ender's Cataclysm 1.21.1-3.25.jar",
+      "hash": "f58b1d9b7b5b1296d00b43a19d60cfc8",
+      "size": 73346444
     },
     {
       "name": "mafglib-0.4.3+mc1.21.1.jar",
@@ -3564,11 +3571,11 @@
       "size": 23830
     },
     {
-      "name": "notenoughanimations-neoforge-1.11.3-mc1.21.1.jar",
-      "path": "mods/notenoughanimations-neoforge-1.11.3-mc1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/notenoughanimations-neoforge-1.11.3-mc1.21.1.jar",
-      "hash": "36e1962eae4febf8186624ba858f8a92",
-      "size": 1926047
+      "name": "notenoughanimations-neoforge-1.12.0-mc1.21.1.jar",
+      "path": "mods/notenoughanimations-neoforge-1.12.0-mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/notenoughanimations-neoforge-1.12.0-mc1.21.1.jar",
+      "hash": "345a7188bdf3a233be31052a47e93014",
+      "size": 1932791
     },
     {
       "name": "observable-5.4.4 (1).jar",
@@ -3613,11 +3620,11 @@
       "size": 3813
     },
     {
-      "name": "particlerain-4.0.0-beta.6+1.21.1-neoforge.jar",
-      "path": "mods/particlerain-4.0.0-beta.6+1.21.1-neoforge.jar",
-      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/particlerain-4.0.0-beta.6+1.21.1-neoforge.jar",
-      "hash": "905f23ec13ad711ca321b4aa408ef2c1",
-      "size": 601680
+      "name": "particlerain-4.0.0-beta.8+1.21.1-neoforge.jar",
+      "path": "mods/particlerain-4.0.0-beta.8+1.21.1-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/particlerain-4.0.0-beta.8+1.21.1-neoforge.jar",
+      "hash": "5dd26fef4f63cc3d7a5ef0fd3a0f4a48",
+      "size": 599584
     },
     {
       "name": "Patchouli-1.21.1-93-NEOFORGE.jar",
@@ -3662,11 +3669,11 @@
       "size": 5304844
     },
     {
-      "name": "plushie_buddies-0.1.7-neofroge-1.21.1.jar",
-      "path": "mods/plushie_buddies-0.1.7-neofroge-1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/plushie_buddies-0.1.7-neofroge-1.21.1.jar",
-      "hash": "305779a2581b30026a94f6515a4b6d19",
-      "size": 395626
+      "name": "plushie_buddies-1.0.0-neofroge-1.21.1.jar",
+      "path": "mods/plushie_buddies-1.0.0-neofroge-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/plushie_buddies-1.0.0-neofroge-1.21.1.jar",
+      "hash": "1ccb17925601f9d1cd3c0f7a2df6e04b",
+      "size": 461703
     },
     {
       "name": "polylib-2100.1.0-build.183-neoforge.jar",
@@ -3830,25 +3837,25 @@
       "size": 1391731
     },
     {
-      "name": "SimpleRPC-4.1.0.jar",
-      "path": "mods/SimpleRPC-4.1.0.jar",
-      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/SimpleRPC-4.1.0.jar",
-      "hash": "06784ecb11b2bd84c2d88ca0bff5cd59",
-      "size": 714235
+      "name": "SimpleRPC-4.1.0+hotfix.1.jar",
+      "path": "mods/SimpleRPC-4.1.0+hotfix.1.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/SimpleRPC-4.1.0+hotfix.1.jar",
+      "hash": "e0214d27a566ff470a93a81c728cafdf",
+      "size": 714318
     },
     {
-      "name": "skinlayers3d-neoforge-1.10.2-mc1.21.1.jar",
-      "path": "mods/skinlayers3d-neoforge-1.10.2-mc1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/skinlayers3d-neoforge-1.10.2-mc1.21.1.jar",
-      "hash": "a725c53fd9d7ac5411181d9862e375cf",
-      "size": 1967305
+      "name": "skinlayers3d-neoforge-1.11.0-mc1.21.1.jar",
+      "path": "mods/skinlayers3d-neoforge-1.11.0-mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/skinlayers3d-neoforge-1.11.0-mc1.21.1.jar",
+      "hash": "fc61b328016fd1180adb59394ab0dc06",
+      "size": 1973859
     },
     {
-      "name": "skinrestorer-2.6.0+1.21-neoforge.jar",
-      "path": "mods/skinrestorer-2.6.0+1.21-neoforge.jar",
-      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/skinrestorer-2.6.0+1.21-neoforge.jar",
-      "hash": "62fe4a42e66313d20699532d1cfde04b",
-      "size": 242101
+      "name": "skinrestorer-2.7.0+1.21-neoforge.jar",
+      "path": "mods/skinrestorer-2.7.0+1.21-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/skinrestorer-2.7.0+1.21-neoforge.jar",
+      "hash": "8709e295aeca32f02accda2708858ae5",
+      "size": 248825
     },
     {
       "name": "SmoothBoot-NeoForge+1.21-1.0.0.jar",
@@ -3935,11 +3942,11 @@
       "size": 207514
     },
     {
-      "name": "supermartijn642corelib-1.1.20-neoforge-mc1.21.jar",
-      "path": "mods/supermartijn642corelib-1.1.20-neoforge-mc1.21.jar",
-      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/supermartijn642corelib-1.1.20-neoforge-mc1.21.jar",
-      "hash": "37a5ba87dacdb6c2062ba4af5cf348cd",
-      "size": 558373
+      "name": "supermartijn642corelib-1.1.21-neoforge-mc1.21.jar",
+      "path": "mods/supermartijn642corelib-1.1.21-neoforge-mc1.21.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/supermartijn642corelib-1.1.21-neoforge-mc1.21.jar",
+      "hash": "8da575ef57766fd02875b10fccae3aca",
+      "size": 558371
     },
     {
       "name": "tacz-neoforge-1.21.1-1.1.7-hotfix-r4.jar",
@@ -3956,11 +3963,11 @@
       "size": 4924243
     },
     {
-      "name": "the_bumblezone-7.11.10+1.21.1-neoforge.jar",
-      "path": "mods/the_bumblezone-7.11.10+1.21.1-neoforge.jar",
-      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/the_bumblezone-7.11.10+1.21.1-neoforge.jar",
-      "hash": "bff4114bd40e95b267c5dfa3e5e6451a",
-      "size": 69474201
+      "name": "the_bumblezone-7.12.0+1.21.1-neoforge.jar",
+      "path": "mods/the_bumblezone-7.12.0+1.21.1-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/the_bumblezone-7.12.0+1.21.1-neoforge.jar",
+      "hash": "321a97edc35ad6a0e4e2c99e1667a862",
+      "size": 69598287
     },
     {
       "name": "threadtweak-1.21.1-NeoForge-1.0.0.jar",
