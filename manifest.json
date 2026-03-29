@@ -2395,13 +2395,6 @@
       "size": 250
     },
     {
-      "name": "acceleratedrendering-1.0.8-1.21.1-alpha.jar",
-      "path": "mods/acceleratedrendering-1.0.8-1.21.1-alpha.jar",
-      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/acceleratedrendering-1.0.8-1.21.1-alpha.jar",
-      "hash": "82ac4bb97276641c23aaf73b57508b74",
-      "size": 471965
-    },
-    {
       "name": "advancednetherite-neoforge-2.3.1-1.21.1.jar",
       "path": "mods/advancednetherite-neoforge-2.3.1-1.21.1.jar",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/advancednetherite-neoforge-2.3.1-1.21.1.jar",
@@ -2596,6 +2589,13 @@
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/Chunky-NeoForge-1.4.23.jar",
       "hash": "c461f3132c48d7bc71a9f2b307273a88",
       "size": 340572
+    },
+    {
+      "name": "cleargpucache-1.0.2.jar",
+      "path": "mods/cleargpucache-1.0.2.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/cleargpucache-1.0.2.jar",
+      "hash": "a1db777136eafb3e78410dea1aba9624",
+      "size": 11007
     },
     {
       "name": "clientcrafting-1.21-1.9.jar",
@@ -3074,6 +3074,13 @@
       "size": 121559
     },
     {
+      "name": "fix_attack_lag-1.2.0-1.21.1-Neoforge.jar",
+      "path": "mods/fix_attack_lag-1.2.0-1.21.1-Neoforge.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/fix_attack_lag-1.2.0-1.21.1-Neoforge.jar",
+      "hash": "c78a50e6dbbae6221de7c7da545803e5",
+      "size": 4677
+    },
+    {
       "name": "flerovium-neoforge-1.21.1-1.0.17-all.jar",
       "path": "mods/flerovium-neoforge-1.21.1-1.0.17-all.jar",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/flerovium-neoforge-1.21.1-1.0.17-all.jar",
@@ -3212,6 +3219,13 @@
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/Incendium_1.21.x_v5.4.4.jar",
       "hash": "37793d374c89e38074bde664fe36df59",
       "size": 4267528
+    },
+    {
+      "name": "iris-flywheel-compat-NeoForge-2.1.2.jar",
+      "path": "mods/iris-flywheel-compat-NeoForge-2.1.2.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/iris-flywheel-compat-NeoForge-2.1.2.jar",
+      "hash": "50fb15520358ddd787e284fa6f80e454",
+      "size": 893987
     },
     {
       "name": "iris-neoforge-1.8.12+mc1.21.1.jar",
@@ -3543,6 +3557,13 @@
       "size": 60512
     },
     {
+      "name": "nopackcompatcheck-0.1.0-neoforge-mc1.21+.jar",
+      "path": "mods/nopackcompatcheck-0.1.0-neoforge-mc1.21+.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/nopackcompatcheck-0.1.0-neoforge-mc1.21+.jar",
+      "hash": "9476fdaa4a23ebf8dd058427323a7ecf",
+      "size": 22039
+    },
+    {
       "name": "Not Enough Recipe Book-NEOFORGE-0.4.3+1.21.jar",
       "path": "mods/Not Enough Recipe Book-NEOFORGE-0.4.3+1.21.jar",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/Not Enough Recipe Book-NEOFORGE-0.4.3+1.21.jar",
@@ -3592,6 +3613,13 @@
       "size": 19173
     },
     {
+      "name": "papi-1.21.1-neoforge-1.0.1.jar",
+      "path": "mods/papi-1.21.1-neoforge-1.0.1.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/papi-1.21.1-neoforge-1.0.1.jar",
+      "hash": "c3fe1b5ae05dd6014876bb653b256539",
+      "size": 3813
+    },
+    {
       "name": "particlerain-4.0.0-beta.6+1.21.1-neoforge.jar",
       "path": "mods/particlerain-4.0.0-beta.6+1.21.1-neoforge.jar",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/particlerain-4.0.0-beta.6+1.21.1-neoforge.jar",
@@ -3604,6 +3632,13 @@
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/Patchouli-1.21.1-93-NEOFORGE.jar",
       "hash": "8178d65cd07dd7a646446729058ae2bf",
       "size": 646777
+    },
+    {
+      "name": "performancetweaks-neoforge-1.2.0.jar",
+      "path": "mods/performancetweaks-neoforge-1.2.0.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/performancetweaks-neoforge-1.2.0.jar",
+      "hash": "887b008566217d327d34322db058c997",
+      "size": 108706
     },
     {
       "name": "Placebo-1.21.1-9.9.1.jar",
@@ -3730,6 +3765,13 @@
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/resourcefullib-neoforge-1.21-3.0.12.jar",
       "hash": "32da88903167d24bb20febeeb2c79225",
       "size": 484332
+    },
+    {
+      "name": "resourcepackpruner-neoforge-1.21.1-1.0.2.jar",
+      "path": "mods/resourcepackpruner-neoforge-1.21.1-1.0.2.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/resourcepackpruner-neoforge-1.21.1-1.0.2.jar",
+      "hash": "f9c0388a925c4332c42a0e21d1489b71",
+      "size": 58787
     },
     {
       "name": "Resourcify (1.21.1-neoforge)-1.8.1.jar",
