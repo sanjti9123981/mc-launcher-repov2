@@ -2626,6 +2626,13 @@
       "size": 946726
     },
     {
+      "name": "colorwheel-neoforge-1.2.3+mc1.21.1.jar",
+      "path": "mods/colorwheel-neoforge-1.2.3+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/colorwheel-neoforge-1.2.3+mc1.21.1.jar",
+      "hash": "dea6ac6765195f0b3bdcfa72ab00a6b9",
+      "size": 376978
+    },
+    {
       "name": "connectedglass-1.1.14-neoforge-mc1.21.jar",
       "path": "mods/connectedglass-1.1.14-neoforge-mc1.21.jar",
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/connectedglass-1.1.14-neoforge-mc1.21.jar",
@@ -3212,13 +3219,6 @@
       "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/Incendium_1.21.x_v5.4.4.jar",
       "hash": "37793d374c89e38074bde664fe36df59",
       "size": 4267528
-    },
-    {
-      "name": "iris-flywheel-compat-NeoForge-2.1.2.jar",
-      "path": "mods/iris-flywheel-compat-NeoForge-2.1.2.jar",
-      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/mods/iris-flywheel-compat-NeoForge-2.1.2.jar",
-      "hash": "50fb15520358ddd787e284fa6f80e454",
-      "size": 893987
     },
     {
       "name": "iris-neoforge-1.8.12+mc1.21.1.jar",
