@@ -1,0 +1,662 @@
+{
+  "files": [
+    {
+      "name": "alltheleaks.json",
+      "path": "config/alltheleaks.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/alltheleaks.json",
+      "hash": "7b0347a81c24e4ddc5fb690749123529",
+      "size": 398
+    },
+    {
+      "name": "badoptimizations.txt",
+      "path": "config/badoptimizations.txt",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/badoptimizations.txt",
+      "hash": "7714652525dd4a0c873ddfc124aac217",
+      "size": 3458
+    },
+    {
+      "name": "bocchium-client.toml",
+      "path": "config/bocchium-client.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/bocchium-client.toml",
+      "hash": "62444c9fbcd9efd76aa90a9a1a351737",
+      "size": 107
+    },
+    {
+      "name": "doespotatotick-client.toml",
+      "path": "config/doespotatotick-client.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/doespotatotick-client.toml",
+      "hash": "117cd895bd4378588094cb5173996192",
+      "size": 450
+    },
+    {
+      "name": "doespotatotick-common.toml",
+      "path": "config/doespotatotick-common.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/doespotatotick-common.toml",
+      "hash": "1607dff7f36e2c629c8a5325f7530383",
+      "size": 5369
+    },
+    {
+      "name": "entityculling.json",
+      "path": "config/entityculling.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/entityculling.json",
+      "hash": "422b1718498a957ece2de2453634102a",
+      "size": 1897
+    },
+    {
+      "name": "b53ef99d78350015d542503cab55014618131de7.png",
+      "path": "config/fancymenu/assets/b53ef99d78350015d542503cab55014618131de7.png",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/fancymenu/assets/b53ef99d78350015d542503cab55014618131de7.png",
+      "hash": "ae2766df3615f1170f4e05237d1491d7",
+      "size": 3535
+    },
+    {
+      "name": "boton.png",
+      "path": "config/fancymenu/assets/boton.png",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/fancymenu/assets/boton.png",
+      "hash": "32a206ba5b0a02d163213b99282dbb58",
+      "size": 647
+    },
+    {
+      "name": "botonk.png",
+      "path": "config/fancymenu/assets/botonk.png",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/fancymenu/assets/botonk.png",
+      "hash": "50ebead0c1fd1c05192b01e8629fb1ef",
+      "size": 741
+    },
+    {
+      "name": "botonp.png",
+      "path": "config/fancymenu/assets/botonp.png",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/fancymenu/assets/botonp.png",
+      "hash": "4ace996c3924894a9d289ab11d2a8ecc",
+      "size": 4237
+    },
+    {
+      "name": "minecraft_title.png",
+      "path": "config/fancymenu/assets/minecraft_title.png",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/fancymenu/assets/minecraft_title.png",
+      "hash": "fe9faec2ecd3c8fb8a7114415070e229",
+      "size": 92247
+    },
+    {
+      "name": "op.ase",
+      "path": "config/fancymenu/assets/op.ase",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/fancymenu/assets/op.ase",
+      "hash": "91e0ec158f61902a6b8f04b5d471604b",
+      "size": 1017
+    },
+    {
+      "name": "po.png",
+      "path": "config/fancymenu/assets/po.png",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/fancymenu/assets/po.png",
+      "hash": "5d9d4ba99a96a4b509d5c4e5df773c92",
+      "size": 615
+    },
+    {
+      "name": "ppppp.png",
+      "path": "config/fancymenu/assets/ppppp.png",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/fancymenu/assets/ppppp.png",
+      "hash": "191a89d43f82631364b5e3a88e1bb068",
+      "size": 613
+    },
+    {
+      "name": "primeroreves.png",
+      "path": "config/fancymenu/assets/primeroreves.png",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/fancymenu/assets/primeroreves.png",
+      "hash": "69cb5819bfc2768345870a5c96a0eb57",
+      "size": 927
+    },
+    {
+      "name": "primszone.png",
+      "path": "config/fancymenu/assets/primszone.png",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/fancymenu/assets/primszone.png",
+      "hash": "a39eaefa630d4d9d263e671b20ea8f27",
+      "size": 30091
+    },
+    {
+      "name": "segundo.png",
+      "path": "config/fancymenu/assets/segundo.png",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/fancymenu/assets/segundo.png",
+      "hash": "47368bcd84b9efcc6872ca5f02e04c69",
+      "size": 927
+    },
+    {
+      "name": "unnamed.jpg",
+      "path": "config/fancymenu/assets/unnamed.jpg",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/fancymenu/assets/unnamed.jpg",
+      "hash": "60bd5822ce4620d27a1593515420f026",
+      "size": 104449
+    },
+    {
+      "name": "unnamedkkk.png",
+      "path": "config/fancymenu/assets/unnamedkkk.png",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/fancymenu/assets/unnamedkkk.png",
+      "hash": "349837a37d19003bff5c594e242a0425",
+      "size": 320678
+    },
+    {
+      "name": "customizablemenus.txt",
+      "path": "config/fancymenu/customizablemenus.txt",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/fancymenu/customizablemenus.txt",
+      "hash": "c6a4b611863353b834fd457324ca588b",
+      "size": 199
+    },
+    {
+      "name": "drippy_loading_overlay_layout.txt",
+      "path": "config/fancymenu/customization/drippy_loading_overlay_layout.txt",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/fancymenu/customization/drippy_loading_overlay_layout.txt",
+      "hash": "c0d7f6932004b26fb8b4de2c4adfe61a",
+      "size": 8479
+    },
+    {
+      "name": "title_screen_layout.txt",
+      "path": "config/fancymenu/customization/title_screen_layout.txt",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/fancymenu/customization/title_screen_layout.txt",
+      "hash": "bf80db4ab53916a61853b2e6653fcdb9",
+      "size": 37120
+    },
+    {
+      "name": "custom_gui_screens.txt",
+      "path": "config/fancymenu/custom_gui_screens.txt",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/fancymenu/custom_gui_screens.txt",
+      "hash": "7207b7d4e39429825125b2827238e686",
+      "size": 282
+    },
+    {
+      "name": "element_layer_control.lewidget",
+      "path": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+      "hash": "70546b71ee503f0bf790bfbd1a1b8c2d",
+      "size": 197
+    },
+    {
+      "name": "legacy_checklist.txt",
+      "path": "config/fancymenu/legacy_checklist.txt",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/fancymenu/legacy_checklist.txt",
+      "hash": "bc03e01c4f1bf1e24e9b86591baa512b",
+      "size": 42
+    },
+    {
+      "name": "options.txt",
+      "path": "config/fancymenu/options.txt",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/fancymenu/options.txt",
+      "hash": "b76ac37001becfae6b4b7d5f3dfe7a36",
+      "size": 2132
+    },
+    {
+      "name": "dark.json",
+      "path": "config/fancymenu/ui_themes/dark.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/fancymenu/ui_themes/dark.json",
+      "hash": "df90c4d23315ff6e63e15541b3031197",
+      "size": 6218
+    },
+    {
+      "name": "light.json",
+      "path": "config/fancymenu/ui_themes/light.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/fancymenu/ui_themes/light.json",
+      "hash": "21a51e7a223939c9fae277fcd02cf4fc",
+      "size": 6220
+    },
+    {
+      "name": "user_variables.db",
+      "path": "config/fancymenu/user_variables.db",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/fancymenu/user_variables.db",
+      "hash": "458e4f3f673e3fea22fb92bf76fcf912",
+      "size": 23
+    },
+    {
+      "name": "fastbench.cfg",
+      "path": "config/fastbench.cfg",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/fastbench.cfg",
+      "hash": "7293fdf19353f45413beee8d18ecd33f",
+      "size": 541
+    },
+    {
+      "name": "fastsuite.cfg",
+      "path": "config/fastsuite.cfg",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/fastsuite.cfg",
+      "hash": "12608768c3b5368c23c88ab2b8b0d6cd",
+      "size": 918
+    },
+    {
+      "name": "ferritecore-mixin.toml",
+      "path": "config/ferritecore-mixin.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/ferritecore-mixin.toml",
+      "hash": "1273149165ad75919e7f3234a993d101",
+      "size": 1603
+    },
+    {
+      "name": "flerovium.json",
+      "path": "config/flerovium.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/flerovium.json",
+      "hash": "56df536d8d477432cf228c6138b2953e",
+      "size": 137
+    },
+    {
+      "name": "flywheel-client.toml",
+      "path": "config/flywheel-client.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/flywheel-client.toml",
+      "hash": "29f0bcd6a33233b592aae6949ddae3b2",
+      "size": 637
+    },
+    {
+      "name": "fml.toml",
+      "path": "config/fml.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/fml.toml",
+      "hash": "f222c7e4d15992f0de10b9f35656ccde",
+      "size": 1551
+    },
+    {
+      "name": "immediatelyfast.json",
+      "path": "config/immediatelyfast.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/immediatelyfast.json",
+      "hash": "8c5364d78b0f6f9c1461f88ca38e8d84",
+      "size": 1114
+    },
+    {
+      "name": "iris-excluded.json",
+      "path": "config/iris-excluded.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/iris-excluded.json",
+      "hash": "670592b1394f12ab96d8432f14ac8dd9",
+      "size": 31
+    },
+    {
+      "name": "iris.properties",
+      "path": "config/iris.properties",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/iris.properties",
+      "hash": "7f03a3fb911cd7eace26e59c91163a45",
+      "size": 281
+    },
+    {
+      "name": "blacklist.json",
+      "path": "config/jei/blacklist.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/jei/blacklist.json",
+      "hash": "78f1a39821342258f73e542d9ea40e0f",
+      "size": 19
+    },
+    {
+      "name": "ingredient-list-mod-sort-order.ini",
+      "path": "config/jei/ingredient-list-mod-sort-order.ini",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/jei/ingredient-list-mod-sort-order.ini",
+      "hash": "fca70034037b56e1abc6291fc0ff5ddd",
+      "size": 11
+    },
+    {
+      "name": "ingredient-list-type-sort-order.ini",
+      "path": "config/jei/ingredient-list-type-sort-order.ini",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/jei/ingredient-list-type-sort-order.ini",
+      "hash": "0328cc64f29f41e751136fade109eaff",
+      "size": 78
+    },
+    {
+      "name": "jei-client.ini",
+      "path": "config/jei/jei-client.ini",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/jei/jei-client.ini",
+      "hash": "f5d63394bfb03a7bbcf4e21b6470fb67",
+      "size": 10746
+    },
+    {
+      "name": "jei-colors.ini",
+      "path": "config/jei/jei-colors.ini",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/jei/jei-colors.ini",
+      "hash": "2b1d073ff360c11353f0079b7539cb2e",
+      "size": 1362
+    },
+    {
+      "name": "jei-debug.ini",
+      "path": "config/jei/jei-debug.ini",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/jei/jei-debug.ini",
+      "hash": "6b0b7cc1c5064cdf7189ed814c2668bb",
+      "size": 1326
+    },
+    {
+      "name": "jei-mod-id-format.ini",
+      "path": "config/jei/jei-mod-id-format.ini",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/jei/jei-mod-id-format.ini",
+      "hash": "7346a8c14352eda612ae4765f6758a62",
+      "size": 489
+    },
+    {
+      "name": "recipe-category-sort-order.ini",
+      "path": "config/jei/recipe-category-sort-order.ini",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/jei/recipe-category-sort-order.ini",
+      "hash": "8e41d4da530be24923be0593a91ca233",
+      "size": 265
+    },
+    {
+      "name": "de_de.local",
+      "path": "config/konkrete/locals/de_de.local",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/konkrete/locals/de_de.local",
+      "hash": "3aac3df2519057d2305f894c37771e30",
+      "size": 369
+    },
+    {
+      "name": "en_us.local",
+      "path": "config/konkrete/locals/en_us.local",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/konkrete/locals/en_us.local",
+      "hash": "56c7ccaa193ba73c0d5c50aff28bb807",
+      "size": 426
+    },
+    {
+      "name": "pl_pl.local",
+      "path": "config/konkrete/locals/pl_pl.local",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/konkrete/locals/pl_pl.local",
+      "hash": "c1f5aa5c2d2ac414f75f0ec3cab3b9c8",
+      "size": 313
+    },
+    {
+      "name": "pt_br.local",
+      "path": "config/konkrete/locals/pt_br.local",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/konkrete/locals/pt_br.local",
+      "hash": "2d055da094c115b94f0e4373a2e06ebe",
+      "size": 322
+    },
+    {
+      "name": "krypton_fnp.yaml",
+      "path": "config/krypton_fnp.yaml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/krypton_fnp.yaml",
+      "hash": "d5fd9cdbf06e504e62e2dc7eaf5c4bc3",
+      "size": 947
+    },
+    {
+      "name": "lithium.properties",
+      "path": "config/lithium.properties",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/lithium.properties",
+      "hash": "65a61a8f2201e0a571d48a7f0295da19",
+      "size": 267
+    },
+    {
+      "name": "megathread.json",
+      "path": "config/megathread.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/megathread.json",
+      "hash": "371d9e85833e9ceaeed3bf4dd51d846e",
+      "size": 177
+    },
+    {
+      "name": "modernfix-common.toml",
+      "path": "config/modernfix-common.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/modernfix-common.toml",
+      "hash": "40e1cfe891a1355f22e5c07591f8943e",
+      "size": 105
+    },
+    {
+      "name": "modernfix-mixins.properties",
+      "path": "config/modernfix-mixins.properties",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/modernfix-mixins.properties",
+      "hash": "305080423a990b9f78d4bcba162abfdd",
+      "size": 4793
+    },
+    {
+      "name": "moreculling.toml",
+      "path": "config/moreculling.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/moreculling.toml",
+      "hash": "f8beb616c4a3a52cbab5827b0df5e67e",
+      "size": 540
+    },
+    {
+      "name": "neoforge-client.toml",
+      "path": "config/neoforge-client.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/neoforge-client.toml",
+      "hash": "7f81c16ea3d467da83df18250f772149",
+      "size": 578
+    },
+    {
+      "name": "neoforge-common.toml",
+      "path": "config/neoforge-common.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/neoforge-common.toml",
+      "hash": "914110a675baa858ef6725e3f56e513c",
+      "size": 772
+    },
+    {
+      "name": "placebo.cfg",
+      "path": "config/placebo.cfg",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/placebo.cfg",
+      "hash": "4b7cc2ff78cad0c1c45e8ec87d96c6b5",
+      "size": 495
+    },
+    {
+      "name": "resourceful-config-web.json",
+      "path": "config/resourceful-config-web.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/resourceful-config-web.json",
+      "hash": "7b3861d2d9bc327c994c3ad5025300d5",
+      "size": 196
+    },
+    {
+      "name": "sodium-fingerprint.json",
+      "path": "config/sodium-fingerprint.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/sodium-fingerprint.json",
+      "hash": "e7c31346e5c1720da282bfaa6a85023e",
+      "size": 427
+    },
+    {
+      "name": "sodium-mixins.properties",
+      "path": "config/sodium-mixins.properties",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/sodium-mixins.properties",
+      "hash": "a5b6a84e034d60be869ae33f2dba4e2b",
+      "size": 258
+    },
+    {
+      "name": "sodium-options.json",
+      "path": "config/sodium-options.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/sodium-options.json",
+      "hash": "263174dc942d3e5438bb65bce9108488",
+      "size": 686
+    },
+    {
+      "name": "structure_layout_optimizer.jsonc",
+      "path": "config/structure_layout_optimizer.jsonc",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/structure_layout_optimizer.jsonc",
+      "hash": "8164106afd7410cdd1bc9cab4e153654",
+      "size": 1058
+    },
+    {
+      "name": "transition.json",
+      "path": "config/transition.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/transition.json",
+      "hash": "939cbb1d75f242d47e2aa1a9d536a3e7",
+      "size": 62
+    },
+    {
+      "name": "trender.json",
+      "path": "config/trender.json",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/trender.json",
+      "hash": "c449ad0a8d190858ec253ed1bc75e05d",
+      "size": 47
+    },
+    {
+      "name": "vanillin-client.toml",
+      "path": "config/vanillin-client.toml",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/config/vanillin-client.toml",
+      "hash": "b788a4c757cb6fc69faf7bf29b70099c",
+      "size": 1542
+    },
+    {
+      "name": "alltheleaks-1.1.7+1.21.1-neoforge.jar",
+      "path": "mods/alltheleaks-1.1.7+1.21.1-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/mods/alltheleaks-1.1.7+1.21.1-neoforge.jar",
+      "hash": "9a2166c934867cd8adfd5e588bd30e7b",
+      "size": 536829
+    },
+    {
+      "name": "BadOptimizations-2.4.1-1.21.1.jar.disabled",
+      "path": "mods/BadOptimizations-2.4.1-1.21.1.jar.disabled",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/mods/BadOptimizations-2.4.1-1.21.1.jar.disabled",
+      "hash": "59ee243a5ccd09fff1dd2879b3cad72a",
+      "size": 283566
+    },
+    {
+      "name": "bocchium-1.21.1-0.0.3.jar.disabled",
+      "path": "mods/bocchium-1.21.1-0.0.3.jar.disabled",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/mods/bocchium-1.21.1-0.0.3.jar.disabled",
+      "hash": "c4965c6c278d912140566e15e8f0cc72",
+      "size": 8838
+    },
+    {
+      "name": "cloth-config-15.0.140-neoforge.jar",
+      "path": "mods/cloth-config-15.0.140-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/mods/cloth-config-15.0.140-neoforge.jar",
+      "hash": "4c3757160403fcccb8ad468c2ea22862",
+      "size": 1163890
+    },
+    {
+      "name": "doespotatotick-1.21.1-5.6.2.jar.disabled",
+      "path": "mods/doespotatotick-1.21.1-5.6.2.jar.disabled",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/mods/doespotatotick-1.21.1-5.6.2.jar.disabled",
+      "hash": "8b3d047b22acc00ce4951b493fa52e60",
+      "size": 46487
+    },
+    {
+      "name": "duplicationless-1.21.1-1.1.5.jar.disabled",
+      "path": "mods/duplicationless-1.21.1-1.1.5.jar.disabled",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/mods/duplicationless-1.21.1-1.1.5.jar.disabled",
+      "hash": "112aa8107e21e4da2ddb0cbf063cff20",
+      "size": 55665
+    },
+    {
+      "name": "entityculling-neoforge-1.10.0-mc1.21.1.jar",
+      "path": "mods/entityculling-neoforge-1.10.0-mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/mods/entityculling-neoforge-1.10.0-mc1.21.1.jar",
+      "hash": "eb1041ae2ca8d91d3878f1cc8b0d02bc",
+      "size": 1573130
+    },
+    {
+      "name": "fancymenu_neoforge_3.8.1_MC_1.21.1.jar",
+      "path": "mods/fancymenu_neoforge_3.8.1_MC_1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/mods/fancymenu_neoforge_3.8.1_MC_1.21.1.jar",
+      "hash": "32ef6216a5ae56a2016c8dc046c7fa76",
+      "size": 4297501
+    },
+    {
+      "name": "flerovium-neoforge-1.21.1-1.0.17-all.jar",
+      "path": "mods/flerovium-neoforge-1.21.1-1.0.17-all.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/mods/flerovium-neoforge-1.21.1-1.0.17-all.jar",
+      "hash": "0ebaea45b0164aa2eae47a7b145de74b",
+      "size": 182098
+    },
+    {
+      "name": "ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar",
+      "path": "mods/ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/mods/ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar",
+      "hash": "567bb6d9155070ad858740af12450c63",
+      "size": 368598
+    },
+    {
+      "name": "iris-neoforge-1.8.12+mc1.21.1.jar",
+      "path": "mods/iris-neoforge-1.8.12+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/mods/iris-neoforge-1.8.12+mc1.21.1.jar",
+      "hash": "6c1122aa7c2b1a4f24831e394c5b513f",
+      "size": 2438548
+    },
+    {
+      "name": "jei-1.21.1-neoforge-19.27.0.336.jar",
+      "path": "mods/jei-1.21.1-neoforge-19.27.0.336.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/mods/jei-1.21.1-neoforge-19.27.0.336.jar",
+      "hash": "d3da422d1a44e31af8a8d036b3d338f7",
+      "size": 1529192
+    },
+    {
+      "name": "konkrete_neoforge_1.9.9_MC_1.21.jar",
+      "path": "mods/konkrete_neoforge_1.9.9_MC_1.21.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/mods/konkrete_neoforge_1.9.9_MC_1.21.jar",
+      "hash": "6e77d08299ea1ec7756a299263bc469b",
+      "size": 618842
+    },
+    {
+      "name": "lithium-neoforge-0.15.3+mc1.21.1.jar",
+      "path": "mods/lithium-neoforge-0.15.3+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/mods/lithium-neoforge-0.15.3+mc1.21.1.jar",
+      "hash": "8207aaae8fea906c7eb2447da40b8c83",
+      "size": 774148
+    },
+    {
+      "name": "melody_neoforge_1.0.10_MC_1.21.jar",
+      "path": "mods/melody_neoforge_1.0.10_MC_1.21.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/mods/melody_neoforge_1.0.10_MC_1.21.jar",
+      "hash": "875f4a68f2cd7ee2cc135904653c93d4",
+      "size": 36096
+    },
+    {
+      "name": "moreculling-neoforge-1.21.1-1.0.7.jar",
+      "path": "mods/moreculling-neoforge-1.21.1-1.0.7.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/mods/moreculling-neoforge-1.21.1-1.0.7.jar",
+      "hash": "97f704f5fca2a00952f75abe78bac964",
+      "size": 344279
+    },
+    {
+      "name": "noisium-neoforge-2.7.0+mc1.21-1.21.1.jar",
+      "path": "mods/noisium-neoforge-2.7.0+mc1.21-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/mods/noisium-neoforge-2.7.0+mc1.21-1.21.1.jar",
+      "hash": "2c7cf8892e4a59130b479ccfcac4ff0e",
+      "size": 60512
+    },
+    {
+      "name": "sodium-neoforge-0.6.13+mc1.21.1.jar",
+      "path": "mods/sodium-neoforge-0.6.13+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/mods/sodium-neoforge-0.6.13+mc1.21.1.jar",
+      "hash": "e5018c782d851fea76be0205b7616e5d",
+      "size": 1162994
+    },
+    {
+      "name": "vanillin-neoforge-1.21.1-1.1.3.jar",
+      "path": "mods/vanillin-neoforge-1.21.1-1.1.3.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/mods/vanillin-neoforge-1.21.1-1.1.3.jar",
+      "hash": "cd4a8b1d475a28608ea0f78a602b1340",
+      "size": 870344
+    },
+    {
+      "name": "neoforge-installer.jar",
+      "path": "neoforge-installer.jar",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/neoforge-installer.jar",
+      "hash": "f0369d79de3aa6a36e53f23f2577bdf7",
+      "size": 6961232
+    },
+    {
+      "name": "AmethystShaders_2.4.zip",
+      "path": "shaderpacks/AmethystShaders_2.4.zip",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/shaderpacks/AmethystShaders_2.4.zip",
+      "hash": "1446323a6789099cb0cdc9dc0357436d",
+      "size": 472309
+    },
+    {
+      "name": "Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
+      "path": "shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
+      "hash": "73eac5d017a268ea8175c2025c2863ad",
+      "size": 1791406
+    },
+    {
+      "name": "BSL_v10.1.1.zip",
+      "path": "shaderpacks/BSL_v10.1.1.zip",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/shaderpacks/BSL_v10.1.1.zip",
+      "hash": "67b0a2d855e91f3578af7a4336e537f0",
+      "size": 1125052
+    },
+    {
+      "name": "ComplementaryReimagined_r5.7.1.zip",
+      "path": "shaderpacks/ComplementaryReimagined_r5.7.1.zip",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/shaderpacks/ComplementaryReimagined_r5.7.1.zip",
+      "hash": "bc5f557bb6844d27e7b7891170544ea9",
+      "size": 522970
+    },
+    {
+      "name": "ComplementaryUnbound_r5.7.1.zip",
+      "path": "shaderpacks/ComplementaryUnbound_r5.7.1.zip",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/shaderpacks/ComplementaryUnbound_r5.7.1.zip",
+      "hash": "b535d194c7115b360860e226c65ae3f2",
+      "size": 522973
+    },
+    {
+      "name": "Solas Shader V3.4.zip",
+      "path": "shaderpacks/Solas Shader V3.4.zip",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/shaderpacks/Solas Shader V3.4.zip",
+      "hash": "758cb831c5eb24daa75fce9bd41223ca",
+      "size": 1227868
+    },
+    {
+      "name": "VHS Overlay.zip",
+      "path": "shaderpacks/VHS Overlay.zip",
+      "url": "https://raw.githubusercontent.com/sanjti9123981/mc-launcher-repov2/main/primszone/shaderpacks/VHS Overlay.zip",
+      "hash": "6e42bfa691b27a94d9dd86603a7f84a6",
+      "size": 7493
+    }
+  ]
+}
